@@ -1,0 +1,3603 @@
+{
+    "code": 200,
+    "message": "请求成功",
+    "data": [
+        {
+            "type": "园林",
+            "models": [
+                {
+                    "name": "3D花_22678",
+                    "img": "/modelImg/img/3D花_22678.png",
+                    "thumb": "/modelImg/thumb/3D花_22678.png",
+                    "modelUrl": "/models/glb/3D花_22678.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "BM_喷泉",
+                    "img": "/modelImg/img/BM_喷泉.png",
+                    "thumb": "/modelImg/thumb/BM_喷泉.png",
+                    "modelUrl": "/models/glb/BM_喷泉.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "白杨3D",
+                    "img": "/modelImg/img/白杨3D.png",
+                    "thumb": "/modelImg/thumb/白杨3D.png",
+                    "modelUrl": "/models/glb/白杨3D.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "粉单竹3D-竹子",
+                    "img": "/modelImg/img/粉单竹3D-竹子.png",
+                    "thumb": "/modelImg/thumb/粉单竹3D-竹子.png",
+                    "modelUrl": "/models/glb/粉单竹3D-竹子.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "行道树",
+                    "img": "/modelImg/img/行道树.png",
+                    "thumb": "/modelImg/thumb/行道树.png",
+                    "modelUrl": "/models/glb/行道树.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "荷花",
+                    "img": "/modelImg/img/荷花.png",
+                    "thumb": "/modelImg/thumb/荷花.png",
+                    "modelUrl": "/models/glb/荷花.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "花架",
+                    "img": "/modelImg/img/花架.png",
+                    "thumb": "/modelImg/thumb/花架.png",
+                    "modelUrl": "/models/glb/花架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "花盆",
+                    "img": "/modelImg/img/花盆.png",
+                    "thumb": "/modelImg/thumb/花盆.png",
+                    "modelUrl": "/models/glb/花盆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "花坛",
+                    "img": "/modelImg/img/花坛.png",
+                    "thumb": "/modelImg/thumb/花坛.png",
+                    "modelUrl": "/models/glb/花坛.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "花坛2",
+                    "img": "/modelImg/img/花坛2.png",
+                    "thumb": "/modelImg/thumb/花坛2.png",
+                    "modelUrl": "/models/glb/花坛2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "槐树",
+                    "img": "/modelImg/img/槐树.png",
+                    "thumb": "/modelImg/thumb/槐树.png",
+                    "modelUrl": "/models/glb/槐树.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "枯树",
+                    "img": "/modelImg/img/枯树.png",
+                    "thumb": "/modelImg/thumb/枯树.png",
+                    "modelUrl": "/models/glb/枯树.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "喷泉4",
+                    "img": "/modelImg/img/喷泉4.png",
+                    "thumb": "/modelImg/thumb/喷泉4.png",
+                    "modelUrl": "/models/glb/喷泉4.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "喷泉5",
+                    "img": "/modelImg/img/喷泉5.png",
+                    "thumb": "/modelImg/thumb/喷泉5.png",
+                    "modelUrl": "/models/glb/喷泉5.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "喷泉水池",
+                    "img": "/modelImg/img/喷泉水池.png",
+                    "thumb": "/modelImg/thumb/喷泉水池.png",
+                    "modelUrl": "/models/glb/喷泉水池.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "喷泉水池1",
+                    "img": "/modelImg/img/喷泉水池1.png",
+                    "thumb": "/modelImg/thumb/喷泉水池1.png",
+                    "modelUrl": "/models/glb/喷泉水池1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "喷水池",
+                    "img": "/modelImg/img/喷水池.png",
+                    "thumb": "/modelImg/thumb/喷水池.png",
+                    "modelUrl": "/models/glb/喷水池.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盆栽",
+                    "img": "/modelImg/img/盆栽.png",
+                    "thumb": "/modelImg/thumb/盆栽.png",
+                    "modelUrl": "/models/glb/盆栽.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盆栽13D",
+                    "img": "/modelImg/img/盆栽13D.png",
+                    "thumb": "/modelImg/thumb/盆栽13D.png",
+                    "modelUrl": "/models/glb/盆栽13D.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盆栽2",
+                    "img": "/modelImg/img/盆栽2.png",
+                    "thumb": "/modelImg/thumb/盆栽2.png",
+                    "modelUrl": "/models/glb/盆栽2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "树",
+                    "img": "/modelImg/img/树.png",
+                    "thumb": "/modelImg/thumb/树.png",
+                    "modelUrl": "/models/glb/树.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "树池",
+                    "img": "/modelImg/img/树池.png",
+                    "thumb": "/modelImg/thumb/树池.png",
+                    "modelUrl": "/models/glb/树池.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "树池1",
+                    "img": "/modelImg/img/树池1.png",
+                    "thumb": "/modelImg/thumb/树池1.png",
+                    "modelUrl": "/models/glb/树池1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "亭子",
+                    "img": "/modelImg/img/亭子.png",
+                    "thumb": "/modelImg/thumb/亭子.png",
+                    "modelUrl": "/models/glb/亭子.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "围栏gjx",
+                    "img": "/modelImg/img/围栏gjx.png",
+                    "thumb": "/modelImg/thumb/围栏gjx.png",
+                    "modelUrl": "/models/glb/围栏gjx.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "香樟",
+                    "img": "/modelImg/img/香樟.png",
+                    "thumb": "/modelImg/thumb/香樟.png",
+                    "modelUrl": "/models/glb/香樟.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "羽毛球场",
+                    "img": "/modelImg/img/羽毛球场.png",
+                    "thumb": "/modelImg/thumb/羽毛球场.png",
+                    "modelUrl": "/models/glb/羽毛球场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "植草砖停车位",
+                    "img": "/modelImg/img/植草砖停车位.png",
+                    "thumb": "/modelImg/thumb/植草砖停车位.png",
+                    "modelUrl": "/models/glb/植草砖停车位.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "植物配景-盆景",
+                    "img": "/modelImg/img/植物配景-盆景.png",
+                    "thumb": "/modelImg/thumb/植物配景-盆景.png",
+                    "modelUrl": "/models/glb/植物配景-盆景.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "竹子盆栽",
+                    "img": "/modelImg/img/竹子盆栽.png",
+                    "thumb": "/modelImg/thumb/竹子盆栽.png",
+                    "modelUrl": "/models/glb/竹子盆栽.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "棕榈树",
+                    "img": "/modelImg/img/棕榈树.png",
+                    "thumb": "/modelImg/thumb/棕榈树.png",
+                    "modelUrl": "/models/glb/棕榈树.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "棕榈树1",
+                    "img": "/modelImg/img/棕榈树1.png",
+                    "thumb": "/modelImg/thumb/棕榈树1.png",
+                    "modelUrl": "/models/glb/棕榈树1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "足球场",
+                    "img": "/modelImg/img/足球场.png",
+                    "thumb": "/modelImg/thumb/足球场.png",
+                    "modelUrl": "/models/glb/足球场.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "梁场",
+            "models": [
+                {
+                    "name": "10吨龙门吊",
+                    "img": "/modelImg/img/10吨龙门吊.png",
+                    "thumb": "/modelImg/thumb/10吨龙门吊.png",
+                    "modelUrl": "/models/glb/10吨龙门吊.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "50m台座节段（500+495断面）",
+                    "img": "/modelImg/img/50m台座节段（500+495断面）.png",
+                    "thumb": "/modelImg/thumb/50m台座节段（500+495断面）.png",
+                    "modelUrl": "/models/glb/50m台座节段（500+495断面）.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "50T梁模板",
+                    "img": "/modelImg/img/50T梁模板.png",
+                    "thumb": "/modelImg/thumb/50T梁模板.png",
+                    "modelUrl": "/models/glb/50T梁模板.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "T梁1",
+                    "img": "/modelImg/img/T梁1.png",
+                    "thumb": "/modelImg/thumb/T梁1.png",
+                    "modelUrl": "/models/glb/T梁1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "T梁2",
+                    "img": "/modelImg/img/T梁2.png",
+                    "thumb": "/modelImg/thumb/T梁2.png",
+                    "modelUrl": "/models/glb/T梁2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "仓库2",
+                    "img": "/modelImg/img/仓库2.png",
+                    "thumb": "/modelImg/thumb/仓库2.png",
+                    "modelUrl": "/models/glb/仓库2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "单层板房",
+                    "img": "/modelImg/img/单层板房.png",
+                    "thumb": "/modelImg/thumb/单层板房.png",
+                    "modelUrl": "/models/glb/单层板房.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "垫石",
+                    "img": "/modelImg/img/垫石.png",
+                    "thumb": "/modelImg/thumb/垫石.png",
+                    "modelUrl": "/models/glb/垫石.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "腹板台架",
+                    "img": "/modelImg/img/腹板台架.png",
+                    "thumb": "/modelImg/thumb/腹板台架.png",
+                    "modelUrl": "/models/glb/腹板台架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋加工厂",
+                    "img": "/modelImg/img/钢筋加工厂.png",
+                    "thumb": "/modelImg/thumb/钢筋加工厂.png",
+                    "modelUrl": "/models/glb/钢筋加工厂.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "混凝土圆柱",
+                    "img": "/modelImg/img/混凝土圆柱.png",
+                    "thumb": "/modelImg/thumb/混凝土圆柱.png",
+                    "modelUrl": "/models/glb/混凝土圆柱.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "梁垫",
+                    "img": "/modelImg/img/梁垫.png",
+                    "thumb": "/modelImg/thumb/梁垫.png",
+                    "modelUrl": "/models/glb/梁垫.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "龙岗高架盖梁",
+                    "img": "/modelImg/img/龙岗高架盖梁.png",
+                    "thumb": "/modelImg/thumb/龙岗高架盖梁.png",
+                    "modelUrl": "/models/glb/龙岗高架盖梁.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "排水沟",
+                    "img": "/modelImg/img/排水沟.png",
+                    "thumb": "/modelImg/thumb/排水沟.png",
+                    "modelUrl": "/models/glb/排水沟.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "箱梁",
+                    "img": "/modelImg/img/箱梁.png",
+                    "thumb": "/modelImg/thumb/箱梁.png",
+                    "modelUrl": "/models/glb/箱梁.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "装配式",
+            "models": [
+                {
+                    "name": "电线杆",
+                    "img": "/modelImg/img/电线杆.png",
+                    "thumb": "/modelImg/thumb/电线杆.png",
+                    "modelUrl": "/models/glb/电线杆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "电线杆带电线",
+                    "img": "/modelImg/img/电线杆带电线.png",
+                    "thumb": "/modelImg/thumb/电线杆带电线.png",
+                    "modelUrl": "/models/glb/电线杆带电线.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "廊道",
+                    "img": "/modelImg/img/廊道.png",
+                    "thumb": "/modelImg/thumb/廊道.png",
+                    "modelUrl": "/models/glb/廊道.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "水泥搅拌车",
+                    "img": "/modelImg/img/水泥搅拌车.png",
+                    "thumb": "/modelImg/thumb/水泥搅拌车.png",
+                    "modelUrl": "/models/glb/水泥搅拌车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "园内道路",
+                    "img": "/modelImg/img/园内道路.png",
+                    "thumb": "/modelImg/thumb/园内道路.png",
+                    "modelUrl": "/models/glb/园内道路.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "园外道路",
+                    "img": "/modelImg/img/园外道路.png",
+                    "thumb": "/modelImg/thumb/园外道路.png",
+                    "modelUrl": "/models/glb/园外道路.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "临沂-7厂房-ALLV3",
+                    "img": "/modelImg/img/中交临沂-7厂房-ALLV3.png",
+                    "thumb": "/modelImg/thumb/中交临沂-7厂房-ALLV3.png",
+                    "modelUrl": "/models/glb/中交临沂-7厂房-ALLV3.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "临沂-2-ALLV3",
+                    "img": "/modelImg/img/中交临沂-2-ALLV3.png",
+                    "thumb": "/modelImg/thumb/中交临沂-2-ALLV3.png",
+                    "modelUrl": "/models/glb/中交临沂-2-ALLV3.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "临沂-4厂房-ALLV3",
+                    "img": "/modelImg/img/中交临沂-4厂房-ALLV3.png",
+                    "thumb": "/modelImg/thumb/中交临沂-4厂房-ALLV3.png",
+                    "modelUrl": "/models/glb/中交临沂-4厂房-ALLV3.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "临沂-8-ALLV3",
+                    "img": "/modelImg/img/中交临沂-8-ALLV3.png",
+                    "thumb": "/modelImg/thumb/中交临沂-8-ALLV3.png",
+                    "modelUrl": "/models/glb/中交临沂-8-ALLV3.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "专用设备1",
+                    "img": "/modelImg/img/专用设备1.png",
+                    "thumb": "/modelImg/thumb/专用设备1.png",
+                    "modelUrl": "/models/glb/专用设备1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "专用设备2",
+                    "img": "/modelImg/img/专用设备2.png",
+                    "thumb": "/modelImg/thumb/专用设备2.png",
+                    "modelUrl": "/models/glb/专用设备2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "专用设备3",
+                    "img": "/modelImg/img/专用设备3.png",
+                    "thumb": "/modelImg/thumb/专用设备3.png",
+                    "modelUrl": "/models/glb/专用设备3.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "装配式龙门吊",
+                    "img": "/modelImg/img/装配式龙门吊.png",
+                    "thumb": "/modelImg/thumb/装配式龙门吊.png",
+                    "modelUrl": "/models/glb/装配式龙门吊.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "装配式门卫",
+                    "img": "/modelImg/img/装配式门卫.png",
+                    "thumb": "/modelImg/thumb/装配式门卫.png",
+                    "modelUrl": "/models/glb/装配式门卫.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "装配式伸缩门",
+                    "img": "/modelImg/img/装配式伸缩门.png",
+                    "thumb": "/modelImg/thumb/装配式伸缩门.png",
+                    "modelUrl": "/models/glb/装配式伸缩门.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "围挡&防护",
+            "models": [
+                {
+                    "name": "护栏",
+                    "img": "/modelImg/img/护栏.png",
+                    "thumb": "/modelImg/thumb/护栏.png",
+                    "modelUrl": "/models/glb/护栏.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "护栏2",
+                    "img": "/modelImg/img/护栏2.png",
+                    "thumb": "/modelImg/thumb/护栏2.png",
+                    "modelUrl": "/models/glb/护栏2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "防护1-2014",
+                    "img": "/modelImg/img/防护1-2014.png",
+                    "thumb": "/modelImg/thumb/防护1-2014.png",
+                    "modelUrl": "/models/glb/防护1-2014.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "定型化防护栏杆模型",
+                    "img": "/modelImg/img/定型化防护栏杆模型.png",
+                    "thumb": "/modelImg/thumb/定型化防护栏杆模型.png",
+                    "modelUrl": "/models/glb/定型化防护栏杆模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "项目部围墙模型",
+                    "img": "/modelImg/img/项目部围墙模型.png",
+                    "thumb": "/modelImg/thumb/项目部围墙模型.png",
+                    "modelUrl": "/models/glb/项目部围墙模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "砖砌式围墙2",
+                    "img": "/modelImg/img/砖砌式围墙2.png",
+                    "thumb": "/modelImg/thumb/砖砌式围墙2.png",
+                    "modelUrl": "/models/glb/砖砌式围墙2.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "临建",
+            "models": [
+                {
+                    "name": "2级配电箱04移动式",
+                    "img": "/modelImg/img/2级配电箱04移动式.png",
+                    "thumb": "/modelImg/thumb/2级配电箱04移动式.png",
+                    "modelUrl": "/models/glb/2级配电箱04移动式.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "A型钢装配式01",
+                    "img": "/modelImg/img/A型钢装配式01.png",
+                    "thumb": "/modelImg/thumb/A型钢装配式01.png",
+                    "modelUrl": "/models/glb/A型钢装配式01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "CD1-9D 电动葫芦",
+                    "img": "/modelImg/img/CD1-9D 电动葫芦.png",
+                    "thumb": "/modelImg/thumb/CD1-9D 电动葫芦.png",
+                    "modelUrl": "/models/glb/CD1-9D 电动葫芦.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "JTL-L钢筋半成品堆放台",
+                    "img": "/modelImg/img/JTL-L钢筋半成品堆放台.png",
+                    "thumb": "/modelImg/thumb/JTL-L钢筋半成品堆放台.png",
+                    "modelUrl": "/models/glb/JTL-L钢筋半成品堆放台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "LDF200方形周转料斗",
+                    "img": "/modelImg/img/LDF200方形周转料斗.png",
+                    "thumb": "/modelImg/thumb/LDF200方形周转料斗.png",
+                    "modelUrl": "/models/glb/LDF200方形周转料斗.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "3_15m兰亭路箱涵",
+                    "img": "/modelImg/img/3_15m兰亭路箱涵.png",
+                    "thumb": "/modelImg/thumb/3_15m兰亭路箱涵.png",
+                    "modelUrl": "/models/glb/3_15m兰亭路箱涵.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "PCB管堆场01",
+                    "img": "/modelImg/img/PCB管堆场01.png",
+                    "thumb": "/modelImg/thumb/PCB管堆场01.png",
+                    "modelUrl": "/models/glb/PCB管堆场01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "PVC管堆场01",
+                    "img": "/modelImg/img/PVC管堆场01.png",
+                    "thumb": "/modelImg/thumb/PVC管堆场01.png",
+                    "modelUrl": "/models/glb/PVC管堆场01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "T梁模板01",
+                    "img": "/modelImg/img/T梁模板01.png",
+                    "thumb": "/modelImg/thumb/T梁模板01.png",
+                    "modelUrl": "/models/glb/T梁模板01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "2960中粮混凝土部分",
+                    "img": "/modelImg/img/2960中粮混凝土部分.png",
+                    "thumb": "/modelImg/thumb/2960中粮混凝土部分.png",
+                    "modelUrl": "/models/glb/2960中粮混凝土部分.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "2960中梁混凝土（加模具）",
+                    "img": "/modelImg/img/2960中梁混凝土（加模具）.png",
+                    "thumb": "/modelImg/thumb/2960中梁混凝土（加模具）.png",
+                    "modelUrl": "/models/glb/2960中梁混凝土（加模具）.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "三一布料机",
+                    "img": "/modelImg/img/三一布料机.png",
+                    "thumb": "/modelImg/thumb/三一布料机.png",
+                    "modelUrl": "/models/glb/三一布料机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "三层板房",
+                    "img": "/modelImg/img/三层板房.png",
+                    "thumb": "/modelImg/thumb/三层板房.png",
+                    "modelUrl": "/models/glb/三层板房.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "上料斗",
+                    "img": "/modelImg/img/上料斗.png",
+                    "thumb": "/modelImg/thumb/上料斗.png",
+                    "modelUrl": "/models/glb/上料斗.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "三层板房03",
+                    "img": "/modelImg/img/三层板房03.png",
+                    "thumb": "/modelImg/thumb/三层板房03.png",
+                    "modelUrl": "/models/glb/三层板房03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "三级沉淀池围栏",
+                    "img": "/modelImg/img/三级沉淀池围栏.png",
+                    "thumb": "/modelImg/thumb/三级沉淀池围栏.png",
+                    "modelUrl": "/models/glb/三级沉淀池围栏.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "三辊闸机01",
+                    "img": "/modelImg/img/三辊闸机01.png",
+                    "thumb": "/modelImg/thumb/三辊闸机01.png",
+                    "modelUrl": "/models/glb/三辊闸机01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "下水沟盖板",
+                    "img": "/modelImg/img/下水沟盖板.png",
+                    "thumb": "/modelImg/thumb/下水沟盖板.png",
+                    "modelUrl": "/models/glb/下水沟盖板.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "中空大体积容器",
+                    "img": "/modelImg/img/中空大体积容器.png",
+                    "thumb": "/modelImg/thumb/中空大体积容器.png",
+                    "modelUrl": "/models/glb/中空大体积容器.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "九牌一图 01",
+                    "img": "/modelImg/img/九牌一图 01.png",
+                    "thumb": "/modelImg/thumb/九牌一图 01.png",
+                    "modelUrl": "/models/glb/九牌一图 01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "二层板房01",
+                    "img": "/modelImg/img/二层板房01.png",
+                    "thumb": "/modelImg/thumb/二层板房01.png",
+                    "modelUrl": "/models/glb/二层板房01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "二层板房06",
+                    "img": "/modelImg/img/二层板房06.png",
+                    "thumb": "/modelImg/thumb/二层板房06.png",
+                    "modelUrl": "/models/glb/二层板房06.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "二层板房12",
+                    "img": "/modelImg/img/二层板房12.png",
+                    "thumb": "/modelImg/thumb/二层板房12.png",
+                    "modelUrl": "/models/glb/二层板房12.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "二层板房16",
+                    "img": "/modelImg/img/二层板房16.png",
+                    "thumb": "/modelImg/thumb/二层板房16.png",
+                    "modelUrl": "/models/glb/二层板房16.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "二层板房20",
+                    "img": "/modelImg/img/二层板房20.png",
+                    "thumb": "/modelImg/thumb/二层板房20.png",
+                    "modelUrl": "/models/glb/二层板房20.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "二衬台车",
+                    "img": "/modelImg/img/二衬台车.png",
+                    "thumb": "/modelImg/thumb/二衬台车.png",
+                    "modelUrl": "/models/glb/二衬台车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "五牌一图 01-1-1",
+                    "img": "/modelImg/img/五牌一图 01-1-1.png",
+                    "thumb": "/modelImg/thumb/五牌一图 01-1-1.png",
+                    "modelUrl": "/models/glb/五牌一图 01-1-1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "五牌一图 02-1-1",
+                    "img": "/modelImg/img/五牌一图 02-1-1.png",
+                    "thumb": "/modelImg/thumb/五牌一图 02-1-1.png",
+                    "modelUrl": "/models/glb/五牌一图 02-1-1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "交叉钢筋",
+                    "img": "/modelImg/img/交叉钢筋.png",
+                    "thumb": "/modelImg/thumb/交叉钢筋.png",
+                    "modelUrl": "/models/glb/交叉钢筋.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "交流电焊机",
+                    "img": "/modelImg/img/交流电焊机.png",
+                    "thumb": "/modelImg/thumb/交流电焊机.png",
+                    "modelUrl": "/models/glb/交流电焊机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "亭子03",
+                    "img": "/modelImg/img/亭子03.png",
+                    "thumb": "/modelImg/thumb/亭子03.png",
+                    "modelUrl": "/models/glb/亭子03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "亭子04",
+                    "img": "/modelImg/img/亭子04.png",
+                    "thumb": "/modelImg/thumb/亭子04.png",
+                    "modelUrl": "/models/glb/亭子04.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "人字臂塔吊",
+                    "img": "/modelImg/img/人字臂塔吊.png",
+                    "thumb": "/modelImg/thumb/人字臂塔吊.png",
+                    "modelUrl": "/models/glb/人字臂塔吊.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "人货梯",
+                    "img": "/modelImg/img/人货梯.png",
+                    "thumb": "/modelImg/thumb/人货梯.png",
+                    "modelUrl": "/models/glb/人货梯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "仓库",
+                    "img": "/modelImg/img/仓库.png",
+                    "thumb": "/modelImg/thumb/仓库.png",
+                    "modelUrl": "/models/glb/仓库.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "休息亭",
+                    "img": "/modelImg/img/休息亭.png",
+                    "thumb": "/modelImg/thumb/休息亭.png",
+                    "modelUrl": "/models/glb/休息亭.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "传送带",
+                    "img": "/modelImg/img/传送带.png",
+                    "thumb": "/modelImg/thumb/传送带.png",
+                    "modelUrl": "/models/glb/传送带.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "停车设备",
+                    "img": "/modelImg/img/停车设备.png",
+                    "thumb": "/modelImg/thumb/停车设备.png",
+                    "modelUrl": "/models/glb/停车设备.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "储料斗01",
+                    "img": "/modelImg/img/储料斗01.png",
+                    "thumb": "/modelImg/thumb/储料斗01.png",
+                    "modelUrl": "/models/glb/储料斗01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "冲击钻机",
+                    "img": "/modelImg/img/冲击钻机.png",
+                    "thumb": "/modelImg/thumb/冲击钻机.png",
+                    "modelUrl": "/models/glb/冲击钻机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "减速带组合",
+                    "img": "/modelImg/img/减速带组合.png",
+                    "thumb": "/modelImg/thumb/减速带组合.png",
+                    "modelUrl": "/models/glb/减速带组合.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "凿毛机头",
+                    "img": "/modelImg/img/凿毛机头.png",
+                    "thumb": "/modelImg/thumb/凿毛机头.png",
+                    "modelUrl": "/models/glb/凿毛机头.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "刀旗",
+                    "img": "/modelImg/img/刀旗.png",
+                    "thumb": "/modelImg/thumb/刀旗.png",
+                    "modelUrl": "/models/glb/刀旗.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "切割机",
+                    "img": "/modelImg/img/切割机.png",
+                    "thumb": "/modelImg/thumb/切割机.png",
+                    "modelUrl": "/models/glb/切割机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "剪刀撑（5.2m)",
+                    "img": "/modelImg/img/剪刀撑（5.2m).png",
+                    "thumb": "/modelImg/thumb/剪刀撑（5.2m).png",
+                    "modelUrl": "/models/glb/剪刀撑（5.2m).glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "加工区仓库03",
+                    "img": "/modelImg/img/加工区仓库03.png",
+                    "thumb": "/modelImg/thumb/加工区仓库03.png",
+                    "modelUrl": "/models/glb/加工区仓库03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "加气块堆场",
+                    "img": "/modelImg/img/加气块堆场.png",
+                    "thumb": "/modelImg/thumb/加气块堆场.png",
+                    "modelUrl": "/models/glb/加气块堆场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "动伸缩起重机（汽车吊）",
+                    "img": "/modelImg/img/动伸缩起重机（汽车吊）.png",
+                    "thumb": "/modelImg/thumb/动伸缩起重机（汽车吊）.png",
+                    "modelUrl": "/models/glb/动伸缩起重机（汽车吊）.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "匝机双侧挡板",
+                    "img": "/modelImg/img/匝机双侧挡板.png",
+                    "thumb": "/modelImg/thumb/匝机双侧挡板.png",
+                    "modelUrl": "/models/glb/匝机双侧挡板.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "升降梯",
+                    "img": "/modelImg/img/升降梯.png",
+                    "thumb": "/modelImg/thumb/升降梯.png",
+                    "modelUrl": "/models/glb/升降梯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "半挂车",
+                    "img": "/modelImg/img/半挂车.png",
+                    "thumb": "/modelImg/thumb/半挂车.png",
+                    "modelUrl": "/models/glb/半挂车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "单层板房01",
+                    "img": "/modelImg/img/单层板房01.png",
+                    "thumb": "/modelImg/thumb/单层板房01.png",
+                    "modelUrl": "/models/glb/单层板房01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "单层板房02",
+                    "img": "/modelImg/img/单层板房02.png",
+                    "thumb": "/modelImg/thumb/单层板房02.png",
+                    "modelUrl": "/models/glb/单层板房02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "卡车（自卸）",
+                    "img": "/modelImg/img/卡车（自卸）.png",
+                    "thumb": "/modelImg/thumb/卡车（自卸）.png",
+                    "modelUrl": "/models/glb/卡车（自卸）.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "卷扬机",
+                    "img": "/modelImg/img/卷扬机.png",
+                    "thumb": "/modelImg/thumb/卷扬机.png",
+                    "modelUrl": "/models/glb/卷扬机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "卸料平台",
+                    "img": "/modelImg/img/卸料平台.png",
+                    "thumb": "/modelImg/thumb/卸料平台.png",
+                    "modelUrl": "/models/glb/卸料平台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "压土机",
+                    "img": "/modelImg/img/压土机.png",
+                    "thumb": "/modelImg/thumb/压土机.png",
+                    "modelUrl": "/models/glb/压土机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "压土机02",
+                    "img": "/modelImg/img/压土机02.png",
+                    "thumb": "/modelImg/thumb/压土机02.png",
+                    "modelUrl": "/models/glb/压土机02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "叉车01",
+                    "img": "/modelImg/img/叉车01.png",
+                    "thumb": "/modelImg/thumb/叉车01.png",
+                    "modelUrl": "/models/glb/叉车01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "叉车03",
+                    "img": "/modelImg/img/叉车03.png",
+                    "thumb": "/modelImg/thumb/叉车03.png",
+                    "modelUrl": "/models/glb/叉车03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "双砂浆罐及封闭防护棚",
+                    "img": "/modelImg/img/双砂浆罐及封闭防护棚.png",
+                    "thumb": "/modelImg/thumb/双砂浆罐及封闭防护棚.png",
+                    "modelUrl": "/models/glb/双砂浆罐及封闭防护棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "台座节段（25m）",
+                    "img": "/modelImg/img/台座节段（25m）.png",
+                    "thumb": "/modelImg/thumb/台座节段（25m）.png",
+                    "modelUrl": "/models/glb/台座节段（25m）.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "台座定位底座",
+                    "img": "/modelImg/img/台座定位底座.png",
+                    "thumb": "/modelImg/thumb/台座定位底座.png",
+                    "modelUrl": "/models/glb/台座定位底座.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吊笼01",
+                    "img": "/modelImg/img/吊笼01.png",
+                    "thumb": "/modelImg/thumb/吊笼01.png",
+                    "modelUrl": "/models/glb/吊笼01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吊篮族",
+                    "img": "/modelImg/img/吊篮族.png",
+                    "thumb": "/modelImg/thumb/吊篮族.png",
+                    "modelUrl": "/models/glb/吊篮族.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吊车01",
+                    "img": "/modelImg/img/吊车01.png",
+                    "thumb": "/modelImg/thumb/吊车01.png",
+                    "modelUrl": "/models/glb/吊车01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吊车02",
+                    "img": "/modelImg/img/吊车02.png",
+                    "thumb": "/modelImg/thumb/吊车02.png",
+                    "modelUrl": "/models/glb/吊车02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吊装用三角桁架",
+                    "img": "/modelImg/img/吊装用三角桁架.png",
+                    "thumb": "/modelImg/thumb/吊装用三角桁架.png",
+                    "modelUrl": "/models/glb/吊装用三角桁架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吊车03",
+                    "img": "/modelImg/img/吊车03.png",
+                    "thumb": "/modelImg/thumb/吊车03.png",
+                    "modelUrl": "/models/glb/吊车03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吊车梁",
+                    "img": "/modelImg/img/吊车梁.png",
+                    "thumb": "/modelImg/thumb/吊车梁.png",
+                    "modelUrl": "/models/glb/吊车梁.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吊车轨加强部分",
+                    "img": "/modelImg/img/吊车轨加强部分.png",
+                    "thumb": "/modelImg/thumb/吊车轨加强部分.png",
+                    "modelUrl": "/models/glb/吊车轨加强部分.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "员工通道01",
+                    "img": "/modelImg/img/员工通道01.png",
+                    "thumb": "/modelImg/thumb/员工通道01.png",
+                    "modelUrl": "/models/glb/员工通道01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "员工通道02",
+                    "img": "/modelImg/img/员工通道02.png",
+                    "thumb": "/modelImg/thumb/员工通道02.png",
+                    "modelUrl": "/models/glb/员工通道02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "员工通道03",
+                    "img": "/modelImg/img/员工通道03.png",
+                    "thumb": "/modelImg/thumb/员工通道03.png",
+                    "modelUrl": "/models/glb/员工通道03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "周转架料堆场01",
+                    "img": "/modelImg/img/周转架料堆场01.png",
+                    "thumb": "/modelImg/thumb/周转架料堆场01.png",
+                    "modelUrl": "/models/glb/周转架料堆场01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "喷雾降尘器",
+                    "img": "/modelImg/img/喷雾降尘器.png",
+                    "thumb": "/modelImg/thumb/喷雾降尘器.png",
+                    "modelUrl": "/models/glb/喷雾降尘器.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "回旋钻钻孔桩机",
+                    "img": "/modelImg/img/回旋钻钻孔桩机.png",
+                    "thumb": "/modelImg/thumb/回旋钻钻孔桩机.png",
+                    "modelUrl": "/models/glb/回旋钻钻孔桩机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "固定式安全围栏02",
+                    "img": "/modelImg/img/固定式安全围栏02.png",
+                    "thumb": "/modelImg/thumb/固定式安全围栏02.png",
+                    "modelUrl": "/models/glb/固定式安全围栏02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "圆盘锯.",
+                    "img": "/modelImg/img/圆盘锯..png",
+                    "thumb": "/modelImg/thumb/圆盘锯..png",
+                    "modelUrl": "/models/glb/圆盘锯..glb",
+                    "type": "draco"
+                },
+                {
+                    "name": "圈梁钢筋",
+                    "img": "/modelImg/img/圈梁钢筋.png",
+                    "thumb": "/modelImg/thumb/圈梁钢筋.png",
+                    "modelUrl": "/models/glb/圈梁钢筋.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "土方车",
+                    "img": "/modelImg/img/土方车.png",
+                    "thumb": "/modelImg/thumb/土方车.png",
+                    "modelUrl": "/models/glb/土方车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "地泵",
+                    "img": "/modelImg/img/地泵.png",
+                    "thumb": "/modelImg/thumb/地泵.png",
+                    "modelUrl": "/models/glb/地泵.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "地磅01",
+                    "img": "/modelImg/img/地磅01.png",
+                    "thumb": "/modelImg/thumb/地磅01.png",
+                    "modelUrl": "/models/glb/地磅01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "基坑-楼梯防护",
+                    "img": "/modelImg/img/基坑-楼梯防护.png",
+                    "thumb": "/modelImg/thumb/基坑-楼梯防护.png",
+                    "modelUrl": "/models/glb/基坑-楼梯防护.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "基坑-楼梯防护口",
+                    "img": "/modelImg/img/基坑-楼梯防护口.png",
+                    "thumb": "/modelImg/thumb/基坑-楼梯防护口.png",
+                    "modelUrl": "/models/glb/基坑-楼梯防护口.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "基坑楼梯",
+                    "img": "/modelImg/img/基坑楼梯.png",
+                    "thumb": "/modelImg/thumb/基坑楼梯.png",
+                    "modelUrl": "/models/glb/基坑楼梯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "堆场临边围栏",
+                    "img": "/modelImg/img/堆场临边围栏.png",
+                    "thumb": "/modelImg/thumb/堆场临边围栏.png",
+                    "modelUrl": "/models/glb/堆场临边围栏.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊02",
+                    "img": "/modelImg/img/塔吊02.png",
+                    "thumb": "/modelImg/thumb/塔吊02.png",
+                    "modelUrl": "/models/glb/塔吊02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊03",
+                    "img": "/modelImg/img/塔吊03.png",
+                    "thumb": "/modelImg/thumb/塔吊03.png",
+                    "modelUrl": "/models/glb/塔吊03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊_M1280D_65度吊臂",
+                    "img": "/modelImg/img/塔吊_M1280D_65度吊臂.png",
+                    "thumb": "/modelImg/thumb/塔吊_M1280D_65度吊臂.png",
+                    "modelUrl": "/models/glb/塔吊_M1280D_65度吊臂.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊_M1280D操作台",
+                    "img": "/modelImg/img/塔吊_M1280D操作台.png",
+                    "thumb": "/modelImg/thumb/塔吊_M1280D操作台.png",
+                    "modelUrl": "/models/glb/塔吊_M1280D操作台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊_动臂塔吊",
+                    "img": "/modelImg/img/塔吊_动臂塔吊.png",
+                    "thumb": "/modelImg/thumb/塔吊_动臂塔吊.png",
+                    "modelUrl": "/models/glb/塔吊_动臂塔吊.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊_塔吊TC6015塔帽",
+                    "img": "/modelImg/img/塔吊_塔吊TC6015塔帽.png",
+                    "thumb": "/modelImg/thumb/塔吊_塔吊TC6015塔帽.png",
+                    "modelUrl": "/models/glb/塔吊_塔吊TC6015塔帽.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊_塔吊TCT5513平头",
+                    "img": "/modelImg/img/塔吊_塔吊TCT5513平头.png",
+                    "thumb": "/modelImg/thumb/塔吊_塔吊TCT5513平头.png",
+                    "modelUrl": "/models/glb/塔吊_塔吊TCT5513平头.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊回转",
+                    "img": "/modelImg/img/塔吊回转.png",
+                    "thumb": "/modelImg/thumb/塔吊回转.png",
+                    "modelUrl": "/models/glb/塔吊回转.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊基础",
+                    "img": "/modelImg/img/塔吊基础.png",
+                    "thumb": "/modelImg/thumb/塔吊基础.png",
+                    "modelUrl": "/models/glb/塔吊基础.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊支座",
+                    "img": "/modelImg/img/塔吊支座.png",
+                    "thumb": "/modelImg/thumb/塔吊支座.png",
+                    "modelUrl": "/models/glb/塔吊支座.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊支撑平台",
+                    "img": "/modelImg/img/塔吊支撑平台.png",
+                    "thumb": "/modelImg/thumb/塔吊支撑平台.png",
+                    "modelUrl": "/models/glb/塔吊支撑平台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔吊附墙架",
+                    "img": "/modelImg/img/塔吊附墙架.png",
+                    "thumb": "/modelImg/thumb/塔吊附墙架.png",
+                    "modelUrl": "/models/glb/塔吊附墙架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "垃圾箱",
+                    "img": "/modelImg/img/垃圾箱.png",
+                    "thumb": "/modelImg/thumb/垃圾箱.png",
+                    "modelUrl": "/models/glb/垃圾箱.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "大叶紫薇",
+                    "img": "/modelImg/img/大叶紫薇.png",
+                    "thumb": "/modelImg/thumb/大叶紫薇.png",
+                    "modelUrl": "/models/glb/大叶紫薇.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "大水车",
+                    "img": "/modelImg/img/大水车.png",
+                    "thumb": "/modelImg/thumb/大水车.png",
+                    "modelUrl": "/models/glb/大水车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "大配电房",
+                    "img": "/modelImg/img/大配电房.png",
+                    "thumb": "/modelImg/thumb/大配电房.png",
+                    "modelUrl": "/models/glb/大配电房.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "大门01",
+                    "img": "/modelImg/img/大门01.png",
+                    "thumb": "/modelImg/thumb/大门01.png",
+                    "modelUrl": "/models/glb/大门01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "大门02",
+                    "img": "/modelImg/img/大门02.png",
+                    "thumb": "/modelImg/thumb/大门02.png",
+                    "modelUrl": "/models/glb/大门02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "大门03",
+                    "img": "/modelImg/img/大门03.png",
+                    "thumb": "/modelImg/thumb/大门03.png",
+                    "modelUrl": "/models/glb/大门03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "大门4",
+                    "img": "/modelImg/img/大门4.png",
+                    "thumb": "/modelImg/thumb/大门4.png",
+                    "modelUrl": "/models/glb/大门4.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "大门安全展示区",
+                    "img": "/modelImg/img/大门安全展示区.png",
+                    "thumb": "/modelImg/thumb/大门安全展示区.png",
+                    "modelUrl": "/models/glb/大门安全展示区.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "套丝机",
+                    "img": "/modelImg/img/套丝机.png",
+                    "thumb": "/modelImg/thumb/套丝机.png",
+                    "modelUrl": "/models/glb/套丝机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "套丝机防护棚",
+                    "img": "/modelImg/img/套丝机防护棚.png",
+                    "thumb": "/modelImg/thumb/套丝机防护棚.png",
+                    "modelUrl": "/models/glb/套丝机防护棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全带使用体验01",
+                    "img": "/modelImg/img/安全带使用体验01.png",
+                    "thumb": "/modelImg/thumb/安全带使用体验01.png",
+                    "modelUrl": "/models/glb/安全带使用体验01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全帽",
+                    "img": "/modelImg/img/安全帽.png",
+                    "thumb": "/modelImg/thumb/安全帽.png",
+                    "modelUrl": "/models/glb/安全帽.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全帽撞击体验区",
+                    "img": "/modelImg/img/安全帽撞击体验区.png",
+                    "thumb": "/modelImg/thumb/安全帽撞击体验区.png",
+                    "modelUrl": "/models/glb/安全帽撞击体验区.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全帽架",
+                    "img": "/modelImg/img/安全帽架.png",
+                    "thumb": "/modelImg/thumb/安全帽架.png",
+                    "modelUrl": "/models/glb/安全帽架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全帽柜01",
+                    "img": "/modelImg/img/安全帽柜01.png",
+                    "thumb": "/modelImg/thumb/安全帽柜01.png",
+                    "modelUrl": "/models/glb/安全帽柜01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全通道",
+                    "img": "/modelImg/img/安全通道.png",
+                    "thumb": "/modelImg/thumb/安全通道.png",
+                    "modelUrl": "/models/glb/安全通道.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全防护用品展览柜",
+                    "img": "/modelImg/img/安全防护用品展览柜.png",
+                    "thumb": "/modelImg/thumb/安全防护用品展览柜.png",
+                    "modelUrl": "/models/glb/安全防护用品展览柜.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全防护门01",
+                    "img": "/modelImg/img/安全防护门01.png",
+                    "thumb": "/modelImg/thumb/安全防护门01.png",
+                    "modelUrl": "/models/glb/安全防护门01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "宣传栏",
+                    "img": "/modelImg/img/宣传栏.png",
+                    "thumb": "/modelImg/thumb/宣传栏.png",
+                    "modelUrl": "/models/glb/宣传栏.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "宣传牌",
+                    "img": "/modelImg/img/宣传牌.png",
+                    "thumb": "/modelImg/thumb/宣传牌.png",
+                    "modelUrl": "/models/glb/宣传牌.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "室外宣传栏",
+                    "img": "/modelImg/img/室外宣传栏.png",
+                    "thumb": "/modelImg/thumb/室外宣传栏.png",
+                    "modelUrl": "/models/glb/室外宣传栏.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "导向牌",
+                    "img": "/modelImg/img/导向牌.png",
+                    "thumb": "/modelImg/thumb/导向牌.png",
+                    "modelUrl": "/models/glb/导向牌.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "小钢模",
+                    "img": "/modelImg/img/小钢模.png",
+                    "thumb": "/modelImg/thumb/小钢模.png",
+                    "modelUrl": "/models/glb/小钢模.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "展示牌01",
+                    "img": "/modelImg/img/展示牌01.png",
+                    "thumb": "/modelImg/thumb/展示牌01.png",
+                    "modelUrl": "/models/glb/展示牌01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "履带吊02",
+                    "img": "/modelImg/img/履带吊02.png",
+                    "thumb": "/modelImg/thumb/履带吊02.png",
+                    "modelUrl": "/models/glb/履带吊02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "履带车",
+                    "img": "/modelImg/img/履带车.png",
+                    "thumb": "/modelImg/thumb/履带车.png",
+                    "modelUrl": "/models/glb/履带车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "岗亭",
+                    "img": "/modelImg/img/岗亭.png",
+                    "thumb": "/modelImg/thumb/岗亭.png",
+                    "modelUrl": "/models/glb/岗亭.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "嵌套通道塔族",
+                    "img": "/modelImg/img/嵌套通道塔族.png",
+                    "thumb": "/modelImg/thumb/嵌套通道塔族.png",
+                    "modelUrl": "/models/glb/嵌套通道塔族.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "工地-铲车",
+                    "img": "/modelImg/img/工地-铲车.png",
+                    "thumb": "/modelImg/thumb/工地-铲车.png",
+                    "modelUrl": "/models/glb/工地-铲车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "工字钢堆场",
+                    "img": "/modelImg/img/工字钢堆场.png",
+                    "thumb": "/modelImg/thumb/工字钢堆场.png",
+                    "modelUrl": "/models/glb/工字钢堆场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "工程概况牌",
+                    "img": "/modelImg/img/工程概况牌.png",
+                    "thumb": "/modelImg/thumb/工程概况牌.png",
+                    "modelUrl": "/models/glb/工程概况牌.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "布料机",
+                    "img": "/modelImg/img/布料机.png",
+                    "thumb": "/modelImg/thumb/布料机.png",
+                    "modelUrl": "/models/glb/布料机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "带螺纹套筒的垂直钢筋",
+                    "img": "/modelImg/img/带螺纹套筒的垂直钢筋.png",
+                    "thumb": "/modelImg/thumb/带螺纹套筒的垂直钢筋.png",
+                    "modelUrl": "/models/glb/带螺纹套筒的垂直钢筋.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "开关箱",
+                    "img": "/modelImg/img/开关箱.png",
+                    "thumb": "/modelImg/thumb/开关箱.png",
+                    "modelUrl": "/models/glb/开关箱.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "开挖台车",
+                    "img": "/modelImg/img/开挖台车.png",
+                    "thumb": "/modelImg/thumb/开挖台车.png",
+                    "modelUrl": "/models/glb/开挖台车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "开槽机",
+                    "img": "/modelImg/img/开槽机.png",
+                    "thumb": "/modelImg/thumb/开槽机.png",
+                    "modelUrl": "/models/glb/开槽机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "成品洗车台",
+                    "img": "/modelImg/img/成品洗车台.png",
+                    "thumb": "/modelImg/thumb/成品洗车台.png",
+                    "modelUrl": "/models/glb/成品洗车台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "打桩机",
+                    "img": "/modelImg/img/打桩机.png",
+                    "thumb": "/modelImg/thumb/打桩机.png",
+                    "modelUrl": "/models/glb/打桩机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "抓土机",
+                    "img": "/modelImg/img/抓土机.png",
+                    "thumb": "/modelImg/thumb/抓土机.png",
+                    "modelUrl": "/models/glb/抓土机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "拖车头",
+                    "img": "/modelImg/img/拖车头.png",
+                    "thumb": "/modelImg/thumb/拖车头.png",
+                    "modelUrl": "/models/glb/拖车头.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "挖掘机",
+                    "img": "/modelImg/img/挖掘机.png",
+                    "thumb": "/modelImg/thumb/挖掘机.png",
+                    "modelUrl": "/models/glb/挖掘机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "挖掘机04",
+                    "img": "/modelImg/img/挖掘机04.png",
+                    "thumb": "/modelImg/thumb/挖掘机04.png",
+                    "modelUrl": "/models/glb/挖掘机04.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "推土机01",
+                    "img": "/modelImg/img/推土机01.png",
+                    "thumb": "/modelImg/thumb/推土机01.png",
+                    "modelUrl": "/models/glb/推土机01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "推土机02",
+                    "img": "/modelImg/img/推土机02.png",
+                    "thumb": "/modelImg/thumb/推土机02.png",
+                    "modelUrl": "/models/glb/推土机02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "搅拌室",
+                    "img": "/modelImg/img/搅拌室.png",
+                    "thumb": "/modelImg/thumb/搅拌室.png",
+                    "modelUrl": "/models/glb/搅拌室.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "搅拌机",
+                    "img": "/modelImg/img/搅拌机.png",
+                    "thumb": "/modelImg/thumb/搅拌机.png",
+                    "modelUrl": "/models/glb/搅拌机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "搅拌站03",
+                    "img": "/modelImg/img/搅拌站03.png",
+                    "thumb": "/modelImg/thumb/搅拌站03.png",
+                    "modelUrl": "/models/glb/搅拌站03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "搅拌站04",
+                    "img": "/modelImg/img/搅拌站04.png",
+                    "thumb": "/modelImg/thumb/搅拌站04.png",
+                    "modelUrl": "/models/glb/搅拌站04.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "搅拌站06",
+                    "img": "/modelImg/img/搅拌站06.png",
+                    "thumb": "/modelImg/thumb/搅拌站06.png",
+                    "modelUrl": "/models/glb/搅拌站06.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "搅拌站08",
+                    "img": "/modelImg/img/搅拌站08.png",
+                    "thumb": "/modelImg/thumb/搅拌站08.png",
+                    "modelUrl": "/models/glb/搅拌站08.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "搅拌站11",
+                    "img": "/modelImg/img/搅拌站11.png",
+                    "thumb": "/modelImg/thumb/搅拌站11.png",
+                    "modelUrl": "/models/glb/搅拌站11.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "搅拌站12",
+                    "img": "/modelImg/img/搅拌站12.png",
+                    "thumb": "/modelImg/thumb/搅拌站12.png",
+                    "modelUrl": "/models/glb/搅拌站12.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "搅拌站15",
+                    "img": "/modelImg/img/搅拌站15.png",
+                    "thumb": "/modelImg/thumb/搅拌站15.png",
+                    "modelUrl": "/models/glb/搅拌站15.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "支模架杆",
+                    "img": "/modelImg/img/支模架杆.png",
+                    "thumb": "/modelImg/thumb/支模架杆.png",
+                    "modelUrl": "/models/glb/支模架杆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "支模横杆",
+                    "img": "/modelImg/img/支模横杆.png",
+                    "thumb": "/modelImg/thumb/支模横杆.png",
+                    "modelUrl": "/models/glb/支模横杆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "料仓加工棚",
+                    "img": "/modelImg/img/料仓加工棚.png",
+                    "thumb": "/modelImg/thumb/料仓加工棚.png",
+                    "modelUrl": "/models/glb/料仓加工棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "方木堆01",
+                    "img": "/modelImg/img/方木堆01.png",
+                    "thumb": "/modelImg/thumb/方木堆01.png",
+                    "modelUrl": "/models/glb/方木堆01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "墩顶钢筋定位架",
+                    "img": "/modelImg/img/墩顶钢筋定位架.png",
+                    "thumb": "/modelImg/thumb/墩顶钢筋定位架.png",
+                    "modelUrl": "/models/glb/墩顶钢筋定位架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "墩柱绑扎胎架",
+                    "img": "/modelImg/img/墩柱绑扎胎架.png",
+                    "thumb": "/modelImg/thumb/墩柱绑扎胎架.png",
+                    "modelUrl": "/models/glb/墩柱绑扎胎架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "墩柱浇筑通道",
+                    "img": "/modelImg/img/墩柱浇筑通道.png",
+                    "thumb": "/modelImg/thumb/墩柱浇筑通道.png",
+                    "modelUrl": "/models/glb/墩柱浇筑通道.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "墩柱模板",
+                    "img": "/modelImg/img/墩柱模板.png",
+                    "thumb": "/modelImg/thumb/墩柱模板.png",
+                    "modelUrl": "/models/glb/墩柱模板.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "施工围挡02",
+                    "img": "/modelImg/img/施工围挡02.png",
+                    "thumb": "/modelImg/thumb/施工围挡02.png",
+                    "modelUrl": "/models/glb/施工围挡02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "施工工艺展示台",
+                    "img": "/modelImg/img/施工工艺展示台.png",
+                    "thumb": "/modelImg/thumb/施工工艺展示台.png",
+                    "modelUrl": "/models/glb/施工工艺展示台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "施工电梯",
+                    "img": "/modelImg/img/施工电梯.png",
+                    "thumb": "/modelImg/thumb/施工电梯.png",
+                    "modelUrl": "/models/glb/施工电梯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "施工电梯防护棚",
+                    "img": "/modelImg/img/施工电梯防护棚.png",
+                    "thumb": "/modelImg/thumb/施工电梯防护棚.png",
+                    "modelUrl": "/models/glb/施工电梯防护棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "施工门卫",
+                    "img": "/modelImg/img/施工门卫.png",
+                    "thumb": "/modelImg/thumb/施工门卫.png",
+                    "modelUrl": "/models/glb/施工门卫.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "施工门卫室03",
+                    "img": "/modelImg/img/施工门卫室03.png",
+                    "thumb": "/modelImg/thumb/施工门卫室03.png",
+                    "modelUrl": "/models/glb/施工门卫室03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "旋挖钻机",
+                    "img": "/modelImg/img/旋挖钻机.png",
+                    "thumb": "/modelImg/thumb/旋挖钻机.png",
+                    "modelUrl": "/models/glb/旋挖钻机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "旋转扣件",
+                    "img": "/modelImg/img/旋转扣件.png",
+                    "thumb": "/modelImg/thumb/旋转扣件.png",
+                    "modelUrl": "/models/glb/旋转扣件.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "旗杆",
+                    "img": "/modelImg/img/旗杆.png",
+                    "thumb": "/modelImg/thumb/旗杆.png",
+                    "modelUrl": "/models/glb/旗杆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "木工加工棚(6×3×4.2m)",
+                    "img": "/modelImg/img/木工加工棚(6×3×4.2m).png",
+                    "thumb": "/modelImg/thumb/木工加工棚(6×3×4.2m).png",
+                    "modelUrl": "/models/glb/木工加工棚(6×3×4.2m).glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "木工加工棚02",
+                    "img": "/modelImg/img/木工加工棚02.png",
+                    "thumb": "/modelImg/thumb/木工加工棚02.png",
+                    "modelUrl": "/models/glb/木工加工棚02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "木工加工棚03",
+                    "img": "/modelImg/img/木工加工棚03.png",
+                    "thumb": "/modelImg/thumb/木工加工棚03.png",
+                    "modelUrl": "/models/glb/木工加工棚03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "木工加工棚04",
+                    "img": "/modelImg/img/木工加工棚04.png",
+                    "thumb": "/modelImg/thumb/木工加工棚04.png",
+                    "modelUrl": "/models/glb/木工加工棚04.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "木工加工棚05",
+                    "img": "/modelImg/img/木工加工棚05.png",
+                    "thumb": "/modelImg/thumb/木工加工棚05.png",
+                    "modelUrl": "/models/glb/木工加工棚05.glb",
+                    "type": "draco"
+                },
+                {
+                    "name": "木料堆场",
+                    "img": "/modelImg/img/木料堆场.png",
+                    "thumb": "/modelImg/thumb/木料堆场.png",
+                    "modelUrl": "/models/glb/木料堆场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "机电加工棚",
+                    "img": "/modelImg/img/机电加工棚.png",
+                    "thumb": "/modelImg/thumb/机电加工棚.png",
+                    "modelUrl": "/models/glb/机电加工棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "材料周转架子01",
+                    "img": "/modelImg/img/材料周转架子01.png",
+                    "thumb": "/modelImg/thumb/材料周转架子01.png",
+                    "modelUrl": "/models/glb/材料周转架子01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "材料堆场",
+                    "img": "/modelImg/img/材料堆场.png",
+                    "thumb": "/modelImg/thumb/材料堆场.png",
+                    "modelUrl": "/models/glb/材料堆场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "板房楼梯",
+                    "img": "/modelImg/img/板房楼梯.png",
+                    "thumb": "/modelImg/thumb/板房楼梯.png",
+                    "modelUrl": "/models/glb/板房楼梯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "架子",
+                    "img": "/modelImg/img/架子.png",
+                    "thumb": "/modelImg/thumb/架子.png",
+                    "modelUrl": "/models/glb/架子.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "架桥机中支腿",
+                    "img": "/modelImg/img/架桥机中支腿.png",
+                    "thumb": "/modelImg/thumb/架桥机中支腿.png",
+                    "modelUrl": "/models/glb/架桥机中支腿.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "柱钢筋样板01",
+                    "img": "/modelImg/img/柱钢筋样板01.png",
+                    "thumb": "/modelImg/thumb/柱钢筋样板01.png",
+                    "modelUrl": "/models/glb/柱钢筋样板01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "标养室02",
+                    "img": "/modelImg/img/标养室02.png",
+                    "thumb": "/modelImg/thumb/标养室02.png",
+                    "modelUrl": "/models/glb/标养室02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "标养室03",
+                    "img": "/modelImg/img/标养室03.png",
+                    "thumb": "/modelImg/thumb/标养室03.png",
+                    "modelUrl": "/models/glb/标养室03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "标牌01",
+                    "img": "/modelImg/img/标牌01.png",
+                    "thumb": "/modelImg/thumb/标牌01.png",
+                    "modelUrl": "/models/glb/标牌01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "标识员工通道标识",
+                    "img": "/modelImg/img/标识员工通道标识.png",
+                    "thumb": "/modelImg/thumb/标识员工通道标识.png",
+                    "modelUrl": "/models/glb/标识员工通道标识.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "标识导向牌01",
+                    "img": "/modelImg/img/标识导向牌01.png",
+                    "thumb": "/modelImg/thumb/标识导向牌01.png",
+                    "modelUrl": "/models/glb/标识导向牌01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "桥式吊车",
+                    "img": "/modelImg/img/桥式吊车.png",
+                    "thumb": "/modelImg/thumb/桥式吊车.png",
+                    "modelUrl": "/models/glb/桥式吊车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "梁铝模",
+                    "img": "/modelImg/img/梁铝模.png",
+                    "thumb": "/modelImg/thumb/梁铝模.png",
+                    "modelUrl": "/models/glb/梁铝模.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "棒形柱式复合绝缘子",
+                    "img": "/modelImg/img/棒形柱式复合绝缘子.png",
+                    "thumb": "/modelImg/thumb/棒形柱式复合绝缘子.png",
+                    "modelUrl": "/models/glb/棒形柱式复合绝缘子.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "楼梯临边防护",
+                    "img": "/modelImg/img/楼梯临边防护.png",
+                    "thumb": "/modelImg/thumb/楼梯临边防护.png",
+                    "modelUrl": "/models/glb/楼梯临边防护.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "模板加工棚",
+                    "img": "/modelImg/img/模板加工棚.png",
+                    "thumb": "/modelImg/thumb/模板加工棚.png",
+                    "modelUrl": "/models/glb/模板加工棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "模板翻转吊具",
+                    "img": "/modelImg/img/模板翻转吊具.png",
+                    "thumb": "/modelImg/thumb/模板翻转吊具.png",
+                    "modelUrl": "/models/glb/模板翻转吊具.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "模板翻转架",
+                    "img": "/modelImg/img/模板翻转架.png",
+                    "thumb": "/modelImg/thumb/模板翻转架.png",
+                    "modelUrl": "/models/glb/模板翻转架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "模板样例1",
+                    "img": "/modelImg/img/模板样例1.png",
+                    "thumb": "/modelImg/thumb/模板样例1.png",
+                    "modelUrl": "/models/glb/模板样例1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "模板样例2",
+                    "img": "/modelImg/img/模板样例2.png",
+                    "thumb": "/modelImg/thumb/模板样例2.png",
+                    "modelUrl": "/models/glb/模板样例2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "模台顶板",
+                    "img": "/modelImg/img/模台顶板.png",
+                    "thumb": "/modelImg/thumb/模台顶板.png",
+                    "modelUrl": "/models/glb/模台顶板.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "模架样板展示模型",
+                    "img": "/modelImg/img/模架样板展示模型.png",
+                    "thumb": "/modelImg/thumb/模架样板展示模型.png",
+                    "modelUrl": "/models/glb/模架样板展示模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "水泥堆场",
+                    "img": "/modelImg/img/水泥堆场.png",
+                    "thumb": "/modelImg/thumb/水泥堆场.png",
+                    "modelUrl": "/models/glb/水泥堆场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "水泥斗车",
+                    "img": "/modelImg/img/水泥斗车.png",
+                    "thumb": "/modelImg/thumb/水泥斗车.png",
+                    "modelUrl": "/models/glb/水泥斗车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "水泥罐",
+                    "img": "/modelImg/img/水泥罐.png",
+                    "thumb": "/modelImg/thumb/水泥罐.png",
+                    "modelUrl": "/models/glb/水泥罐.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "汉白玉国旗台01",
+                    "img": "/modelImg/img/汉白玉国旗台01.png",
+                    "thumb": "/modelImg/thumb/汉白玉国旗台01.png",
+                    "modelUrl": "/models/glb/汉白玉国旗台01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "汽车吊-200T",
+                    "img": "/modelImg/img/汽车吊-200T.png",
+                    "thumb": "/modelImg/thumb/汽车吊-200T.png",
+                    "modelUrl": "/models/glb/汽车吊-200T.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "泡沫罐",
+                    "img": "/modelImg/img/泡沫罐.png",
+                    "thumb": "/modelImg/thumb/泡沫罐.png",
+                    "modelUrl": "/models/glb/泡沫罐.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "泵车",
+                    "img": "/modelImg/img/泵车.png",
+                    "thumb": "/modelImg/thumb/泵车.png",
+                    "modelUrl": "/models/glb/泵车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "洗车台",
+                    "img": "/modelImg/img/洗车台.png",
+                    "thumb": "/modelImg/thumb/洗车台.png",
+                    "modelUrl": "/models/glb/洗车台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "洗车台护柱",
+                    "img": "/modelImg/img/洗车台护柱.png",
+                    "thumb": "/modelImg/thumb/洗车台护柱.png",
+                    "modelUrl": "/models/glb/洗车台护柱.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "洗车池沉淀池",
+                    "img": "/modelImg/img/洗车池沉淀池.png",
+                    "thumb": "/modelImg/thumb/洗车池沉淀池.png",
+                    "modelUrl": "/models/glb/洗车池沉淀池.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "洞口安全坠落体验",
+                    "img": "/modelImg/img/洞口安全坠落体验.png",
+                    "thumb": "/modelImg/thumb/洞口安全坠落体验.png",
+                    "modelUrl": "/models/glb/洞口安全坠落体验.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "洞口安全坠落体验04",
+                    "img": "/modelImg/img/洞口安全坠落体验04.png",
+                    "thumb": "/modelImg/thumb/洞口安全坠落体验04.png",
+                    "modelUrl": "/models/glb/洞口安全坠落体验04.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "浴室02",
+                    "img": "/modelImg/img/浴室02.png",
+                    "thumb": "/modelImg/thumb/浴室02.png",
+                    "modelUrl": "/models/glb/浴室02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "浴室03",
+                    "img": "/modelImg/img/浴室03.png",
+                    "thumb": "/modelImg/thumb/浴室03.png",
+                    "modelUrl": "/models/glb/浴室03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "消防器材箱水桶",
+                    "img": "/modelImg/img/消防器材箱水桶.png",
+                    "thumb": "/modelImg/thumb/消防器材箱水桶.png",
+                    "modelUrl": "/models/glb/消防器材箱水桶.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "消防展览柜",
+                    "img": "/modelImg/img/消防展览柜.png",
+                    "thumb": "/modelImg/thumb/消防展览柜.png",
+                    "modelUrl": "/models/glb/消防展览柜.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "混凝土卡车",
+                    "img": "/modelImg/img/混凝土卡车.png",
+                    "thumb": "/modelImg/thumb/混凝土卡车.png",
+                    "modelUrl": "/models/glb/混凝土卡车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "混凝土臂架泵车",
+                    "img": "/modelImg/img/混凝土臂架泵车.png",
+                    "thumb": "/modelImg/thumb/混凝土臂架泵车.png",
+                    "modelUrl": "/models/glb/混凝土臂架泵车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "混凝土罐车",
+                    "img": "/modelImg/img/混凝土罐车.png",
+                    "thumb": "/modelImg/thumb/混凝土罐车.png",
+                    "modelUrl": "/models/glb/混凝土罐车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "混凝土泵车",
+                    "img": "/modelImg/img/混凝土泵车.png",
+                    "thumb": "/modelImg/thumb/混凝土泵车.png",
+                    "modelUrl": "/models/glb/混凝土泵车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "混凝土磨光机",
+                    "img": "/modelImg/img/混凝土磨光机.png",
+                    "thumb": "/modelImg/thumb/混凝土磨光机.png",
+                    "modelUrl": "/models/glb/混凝土磨光机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "渣土车",
+                    "img": "/modelImg/img/渣土车.png",
+                    "thumb": "/modelImg/thumb/渣土车.png",
+                    "modelUrl": "/models/glb/渣土车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "潜孔钻机",
+                    "img": "/modelImg/img/潜孔钻机.png",
+                    "thumb": "/modelImg/thumb/潜孔钻机.png",
+                    "modelUrl": "/models/glb/潜孔钻机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "灯架防护棚01",
+                    "img": "/modelImg/img/灯架防护棚01.png",
+                    "thumb": "/modelImg/thumb/灯架防护棚01.png",
+                    "modelUrl": "/models/glb/灯架防护棚01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "焊机棚",
+                    "img": "/modelImg/img/焊机棚.png",
+                    "thumb": "/modelImg/thumb/焊机棚.png",
+                    "modelUrl": "/models/glb/焊机棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "爬架堆场",
+                    "img": "/modelImg/img/爬架堆场.png",
+                    "thumb": "/modelImg/thumb/爬架堆场.png",
+                    "modelUrl": "/models/glb/爬架堆场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "爬架标准",
+                    "img": "/modelImg/img/爬架标准.png",
+                    "thumb": "/modelImg/thumb/爬架标准.png",
+                    "modelUrl": "/models/glb/爬架标准.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "物料提升机",
+                    "img": "/modelImg/img/物料提升机.png",
+                    "thumb": "/modelImg/thumb/物料提升机.png",
+                    "modelUrl": "/models/glb/物料提升机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "独立柱木模板",
+                    "img": "/modelImg/img/独立柱木模板.png",
+                    "thumb": "/modelImg/thumb/独立柱木模板.png",
+                    "modelUrl": "/models/glb/独立柱木模板.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "班前讲评台01",
+                    "img": "/modelImg/img/班前讲评台01.png",
+                    "thumb": "/modelImg/thumb/班前讲评台01.png",
+                    "modelUrl": "/models/glb/班前讲评台01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "用电箱防护棚",
+                    "img": "/modelImg/img/用电箱防护棚.png",
+                    "thumb": "/modelImg/thumb/用电箱防护棚.png",
+                    "modelUrl": "/models/glb/用电箱防护棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "电焊机01",
+                    "img": "/modelImg/img/电焊机01.png",
+                    "thumb": "/modelImg/thumb/电焊机01.png",
+                    "modelUrl": "/models/glb/电焊机01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "电箱防护02",
+                    "img": "/modelImg/img/电箱防护02.png",
+                    "thumb": "/modelImg/thumb/电箱防护02.png",
+                    "modelUrl": "/models/glb/电箱防护02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "电缆槽台车",
+                    "img": "/modelImg/img/电缆槽台车.png",
+                    "thumb": "/modelImg/thumb/电缆槽台车.png",
+                    "modelUrl": "/models/glb/电缆槽台车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盖梁底座",
+                    "img": "/modelImg/img/盖梁底座.png",
+                    "thumb": "/modelImg/thumb/盖梁底座.png",
+                    "modelUrl": "/models/glb/盖梁底座.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盖梁垫木",
+                    "img": "/modelImg/img/盖梁垫木.png",
+                    "thumb": "/modelImg/thumb/盖梁垫木.png",
+                    "modelUrl": "/models/glb/盖梁垫木.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盖子",
+                    "img": "/modelImg/img/盖子.png",
+                    "thumb": "/modelImg/thumb/盖子.png",
+                    "modelUrl": "/models/glb/盖子.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盘条钢筋调直固定架",
+                    "img": "/modelImg/img/盘条钢筋调直固定架.png",
+                    "thumb": "/modelImg/thumb/盘条钢筋调直固定架.png",
+                    "modelUrl": "/models/glb/盘条钢筋调直固定架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "石堆",
+                    "img": "/modelImg/img/石堆.png",
+                    "thumb": "/modelImg/thumb/石堆.png",
+                    "modelUrl": "/models/glb/石堆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "砂石堆场",
+                    "img": "/modelImg/img/砂石堆场.png",
+                    "thumb": "/modelImg/thumb/砂石堆场.png",
+                    "modelUrl": "/models/glb/砂石堆场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "砂石料斗",
+                    "img": "/modelImg/img/砂石料斗.png",
+                    "thumb": "/modelImg/thumb/砂石料斗.png",
+                    "modelUrl": "/models/glb/砂石料斗.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "砂轮锯",
+                    "img": "/modelImg/img/砂轮锯.png",
+                    "thumb": "/modelImg/thumb/砂轮锯.png",
+                    "modelUrl": "/models/glb/砂轮锯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "移动式爬梯",
+                    "img": "/modelImg/img/移动式爬梯.png",
+                    "thumb": "/modelImg/thumb/移动式爬梯.png",
+                    "modelUrl": "/models/glb/移动式爬梯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "移动式隔离栏杆",
+                    "img": "/modelImg/img/移动式隔离栏杆.png",
+                    "thumb": "/modelImg/thumb/移动式隔离栏杆.png",
+                    "modelUrl": "/models/glb/移动式隔离栏杆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "移动脚手架",
+                    "img": "/modelImg/img/移动脚手架.png",
+                    "thumb": "/modelImg/thumb/移动脚手架.png",
+                    "modelUrl": "/models/glb/移动脚手架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "翻斗卡车",
+                    "img": "/modelImg/img/翻斗卡车.png",
+                    "thumb": "/modelImg/thumb/翻斗卡车.png",
+                    "modelUrl": "/models/glb/翻斗卡车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "脚手架钢管堆场",
+                    "img": "/modelImg/img/脚手架钢管堆场.png",
+                    "thumb": "/modelImg/thumb/脚手架钢管堆场.png",
+                    "modelUrl": "/models/glb/脚手架钢管堆场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "自动伸缩布料机",
+                    "img": "/modelImg/img/自动伸缩布料机.png",
+                    "thumb": "/modelImg/thumb/自动伸缩布料机.png",
+                    "modelUrl": "/models/glb/自动伸缩布料机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "节能路灯",
+                    "img": "/modelImg/img/节能路灯.png",
+                    "thumb": "/modelImg/thumb/节能路灯.png",
+                    "modelUrl": "/models/glb/节能路灯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "落地旗",
+                    "img": "/modelImg/img/落地旗.png",
+                    "thumb": "/modelImg/thumb/落地旗.png",
+                    "modelUrl": "/models/glb/落地旗.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "薄壁式挡土墙钢筋",
+                    "img": "/modelImg/img/薄壁式挡土墙钢筋.png",
+                    "thumb": "/modelImg/thumb/薄壁式挡土墙钢筋.png",
+                    "modelUrl": "/models/glb/薄壁式挡土墙钢筋.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "螺旋输送机",
+                    "img": "/modelImg/img/螺旋输送机.png",
+                    "thumb": "/modelImg/thumb/螺旋输送机.png",
+                    "modelUrl": "/models/glb/螺旋输送机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "螺纹机",
+                    "img": "/modelImg/img/螺纹机.png",
+                    "thumb": "/modelImg/thumb/螺纹机.png",
+                    "modelUrl": "/models/glb/螺纹机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "观景台",
+                    "img": "/modelImg/img/观景台.png",
+                    "thumb": "/modelImg/thumb/观景台.png",
+                    "modelUrl": "/models/glb/观景台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "警示标语牌",
+                    "img": "/modelImg/img/警示标语牌.png",
+                    "thumb": "/modelImg/thumb/警示标语牌.png",
+                    "modelUrl": "/models/glb/警示标语牌.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "遮阴棚",
+                    "img": "/modelImg/img/遮阴棚.png",
+                    "thumb": "/modelImg/thumb/遮阴棚.png",
+                    "modelUrl": "/models/glb/遮阴棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "配电房",
+                    "img": "/modelImg/img/配电房.png",
+                    "thumb": "/modelImg/thumb/配电房.png",
+                    "modelUrl": "/models/glb/配电房.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "配电棚（8000×2500×6000）",
+                    "img": "/modelImg/img/配电棚（8000×2500×6000）.png",
+                    "thumb": "/modelImg/thumb/配电棚（8000×2500×6000）.png",
+                    "modelUrl": "/models/glb/配电棚（8000×2500×6000）.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "配电箱防护棚",
+                    "img": "/modelImg/img/配电箱防护棚.png",
+                    "thumb": "/modelImg/thumb/配电箱防护棚.png",
+                    "modelUrl": "/models/glb/配电箱防护棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "配电间带临边",
+                    "img": "/modelImg/img/配电间带临边.png",
+                    "thumb": "/modelImg/thumb/配电间带临边.png",
+                    "modelUrl": "/models/glb/配电间带临边.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "重力式打桩机",
+                    "img": "/modelImg/img/重力式打桩机.png",
+                    "thumb": "/modelImg/thumb/重力式打桩机.png",
+                    "modelUrl": "/models/glb/重力式打桩机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "金属切割机",
+                    "img": "/modelImg/img/金属切割机.png",
+                    "thumb": "/modelImg/thumb/金属切割机.png",
+                    "modelUrl": "/models/glb/金属切割机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢板钢筋01",
+                    "img": "/modelImg/img/钢板钢筋01.png",
+                    "thumb": "/modelImg/thumb/钢板钢筋01.png",
+                    "modelUrl": "/models/glb/钢板钢筋01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢桁架",
+                    "img": "/modelImg/img/钢桁架.png",
+                    "thumb": "/modelImg/thumb/钢桁架.png",
+                    "modelUrl": "/models/glb/钢桁架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢爬梯",
+                    "img": "/modelImg/img/钢爬梯.png",
+                    "thumb": "/modelImg/thumb/钢爬梯.png",
+                    "modelUrl": "/models/glb/钢爬梯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋_盘筋",
+                    "img": "/modelImg/img/钢筋_盘筋.png",
+                    "thumb": "/modelImg/thumb/钢筋_盘筋.png",
+                    "modelUrl": "/models/glb/钢筋_盘筋.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋_直筋",
+                    "img": "/modelImg/img/钢筋_直筋.png",
+                    "thumb": "/modelImg/thumb/钢筋_直筋.png",
+                    "modelUrl": "/models/glb/钢筋_直筋.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋场起重龙门架",
+                    "img": "/modelImg/img/钢筋场起重龙门架.png",
+                    "thumb": "/modelImg/thumb/钢筋场起重龙门架.png",
+                    "modelUrl": "/models/glb/钢筋场起重龙门架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋堆场01",
+                    "img": "/modelImg/img/钢筋堆场01.png",
+                    "thumb": "/modelImg/thumb/钢筋堆场01.png",
+                    "modelUrl": "/models/glb/钢筋堆场01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋堆场06",
+                    "img": "/modelImg/img/钢筋堆场06.png",
+                    "thumb": "/modelImg/thumb/钢筋堆场06.png",
+                    "modelUrl": "/models/glb/钢筋堆场06.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋套丝机",
+                    "img": "/modelImg/img/钢筋套丝机.png",
+                    "thumb": "/modelImg/thumb/钢筋套丝机.png",
+                    "modelUrl": "/models/glb/钢筋套丝机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋成品堆场",
+                    "img": "/modelImg/img/钢筋成品堆场.png",
+                    "thumb": "/modelImg/thumb/钢筋成品堆场.png",
+                    "modelUrl": "/models/glb/钢筋成品堆场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋捆",
+                    "img": "/modelImg/img/钢筋捆.png",
+                    "thumb": "/modelImg/thumb/钢筋捆.png",
+                    "modelUrl": "/models/glb/钢筋捆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋标牌",
+                    "img": "/modelImg/img/钢筋标牌.png",
+                    "thumb": "/modelImg/thumb/钢筋标牌.png",
+                    "modelUrl": "/models/glb/钢筋标牌.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋笼卷焊机",
+                    "img": "/modelImg/img/钢筋笼卷焊机.png",
+                    "thumb": "/modelImg/thumb/钢筋笼卷焊机.png",
+                    "modelUrl": "/models/glb/钢筋笼卷焊机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋车间01",
+                    "img": "/modelImg/img/钢筋车间01.png",
+                    "thumb": "/modelImg/thumb/钢筋车间01.png",
+                    "modelUrl": "/models/glb/钢筋车间01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋车间04",
+                    "img": "/modelImg/img/钢筋车间04.png",
+                    "thumb": "/modelImg/thumb/钢筋车间04.png",
+                    "modelUrl": "/models/glb/钢筋车间04.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋防护棚01",
+                    "img": "/modelImg/img/钢筋防护棚01.png",
+                    "thumb": "/modelImg/thumb/钢筋防护棚01.png",
+                    "modelUrl": "/models/glb/钢筋防护棚01.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢结构样板间",
+                    "img": "/modelImg/img/钢结构样板间.png",
+                    "thumb": "/modelImg/thumb/钢结构样板间.png",
+                    "modelUrl": "/models/glb/钢结构样板间.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "长臂宽挖掘机",
+                    "img": "/modelImg/img/长臂宽挖掘机.png",
+                    "thumb": "/modelImg/thumb/长臂宽挖掘机.png",
+                    "modelUrl": "/models/glb/长臂宽挖掘机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "门禁",
+                    "img": "/modelImg/img/门禁.png",
+                    "thumb": "/modelImg/thumb/门禁.png",
+                    "modelUrl": "/models/glb/门禁.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "门禁闸机",
+                    "img": "/modelImg/img/门禁闸机.png",
+                    "thumb": "/modelImg/thumb/门禁闸机.png",
+                    "modelUrl": "/models/glb/门禁闸机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "门禁闸机02",
+                    "img": "/modelImg/img/门禁闸机02.png",
+                    "thumb": "/modelImg/thumb/门禁闸机02.png",
+                    "modelUrl": "/models/glb/门禁闸机02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "防护棚",
+                    "img": "/modelImg/img/防护棚.png",
+                    "thumb": "/modelImg/thumb/防护棚.png",
+                    "modelUrl": "/models/glb/防护棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "防水布台车",
+                    "img": "/modelImg/img/防水布台车.png",
+                    "thumb": "/modelImg/thumb/防水布台车.png",
+                    "modelUrl": "/models/glb/防水布台车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "集装箱",
+                    "img": "/modelImg/img/集装箱.png",
+                    "thumb": "/modelImg/thumb/集装箱.png",
+                    "modelUrl": "/models/glb/集装箱.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "集装箱02",
+                    "img": "/modelImg/img/集装箱02.png",
+                    "thumb": "/modelImg/thumb/集装箱02.png",
+                    "modelUrl": "/models/glb/集装箱02.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "集装箱04",
+                    "img": "/modelImg/img/集装箱04.png",
+                    "thumb": "/modelImg/thumb/集装箱04.png",
+                    "modelUrl": "/models/glb/集装箱04.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "集装箱卡车",
+                    "img": "/modelImg/img/集装箱卡车.png",
+                    "thumb": "/modelImg/thumb/集装箱卡车.png",
+                    "modelUrl": "/models/glb/集装箱卡车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "静压打桩机",
+                    "img": "/modelImg/img/静压打桩机.png",
+                    "thumb": "/modelImg/thumb/静压打桩机.png",
+                    "modelUrl": "/models/glb/静压打桩机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "龙门吊(35m)",
+                    "img": "/modelImg/img/龙门吊(35m).png",
+                    "thumb": "/modelImg/thumb/龙门吊(35m).png",
+                    "modelUrl": "/models/glb/龙门吊(35m).glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "龙门吊03",
+                    "img": "/modelImg/img/龙门吊03.png",
+                    "thumb": "/modelImg/thumb/龙门吊03.png",
+                    "modelUrl": "/models/glb/龙门吊03.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "龙门吊04",
+                    "img": "/modelImg/img/龙门吊04.png",
+                    "thumb": "/modelImg/thumb/龙门吊04.png",
+                    "modelUrl": "/models/glb/龙门吊04.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "龙门吊1",
+                    "img": "/modelImg/img/龙门吊1.png",
+                    "thumb": "/modelImg/thumb/龙门吊1.png",
+                    "modelUrl": "/models/glb/龙门吊1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "龙门起重机",
+                    "img": "/modelImg/img/龙门起重机.png",
+                    "thumb": "/modelImg/thumb/龙门起重机.png",
+                    "modelUrl": "/models/glb/龙门起重机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "预制盖梁",
+                    "img": "/modelImg/img/预制盖梁.png",
+                    "thumb": "/modelImg/thumb/预制盖梁.png",
+                    "modelUrl": "/models/glb/预制盖梁.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "预制盖梁1",
+                    "img": "/modelImg/img/预制盖梁1.png",
+                    "thumb": "/modelImg/thumb/预制盖梁1.png",
+                    "modelUrl": "/models/glb/预制盖梁1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盖梁预制场路面",
+                    "img": "/modelImg/img/盖梁预制场路面.png",
+                    "thumb": "/modelImg/thumb/盖梁预制场路面.png",
+                    "modelUrl": "/models/glb/盖梁预制场路面.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盖梁族",
+                    "img": "/modelImg/img/盖梁族.png",
+                    "thumb": "/modelImg/thumb/盖梁族.png",
+                    "modelUrl": "/models/glb/盖梁族.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "箱涵浇筑通道1",
+                    "img": "/modelImg/img/箱涵浇筑通道1.png",
+                    "thumb": "/modelImg/thumb/箱涵浇筑通道1.png",
+                    "modelUrl": "/models/glb/箱涵浇筑通道1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "箱涵浇筑通道2",
+                    "img": "/modelImg/img/箱涵浇筑通道2.png",
+                    "thumb": "/modelImg/thumb/箱涵浇筑通道2.png",
+                    "modelUrl": "/models/glb/箱涵浇筑通道2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "箱涵工作台",
+                    "img": "/modelImg/img/箱涵工作台.png",
+                    "thumb": "/modelImg/thumb/箱涵工作台.png",
+                    "modelUrl": "/models/glb/箱涵工作台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "箱涵模板",
+                    "img": "/modelImg/img/箱涵模板.png",
+                    "thumb": "/modelImg/thumb/箱涵模板.png",
+                    "modelUrl": "/models/glb/箱涵模板.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "立柱族",
+                    "img": "/modelImg/img/立柱族.png",
+                    "thumb": "/modelImg/thumb/立柱族.png",
+                    "modelUrl": "/models/glb/立柱族.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "钢筋厂",
+            "models": [
+                {
+                    "name": "半成品钢筋存放架",
+                    "img": "/modelImg/img/半成品钢筋存放架.png",
+                    "thumb": "/modelImg/thumb/半成品钢筋存放架.png",
+                    "modelUrl": "/models/glb/半成品钢筋存放架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋存放架9m宽",
+                    "img": "/modelImg/img/钢筋存放架9m宽.png",
+                    "thumb": "/modelImg/thumb/钢筋存放架9m宽.png",
+                    "modelUrl": "/models/glb/钢筋存放架9m宽.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋笼",
+                    "img": "/modelImg/img/钢筋笼.png",
+                    "thumb": "/modelImg/thumb/钢筋笼.png",
+                    "modelUrl": "/models/glb/钢筋笼.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋笼模板1",
+                    "img": "/modelImg/img/钢筋笼模板1.png",
+                    "thumb": "/modelImg/thumb/钢筋笼模板1.png",
+                    "modelUrl": "/models/glb/钢筋笼模板1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋笼模板2",
+                    "img": "/modelImg/img/钢筋笼模板2.png",
+                    "thumb": "/modelImg/thumb/钢筋笼模板2.png",
+                    "modelUrl": "/models/glb/钢筋笼模板2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋笼模板3",
+                    "img": "/modelImg/img/钢筋笼模板3.png",
+                    "thumb": "/modelImg/thumb/钢筋笼模板3.png",
+                    "modelUrl": "/models/glb/钢筋笼模板3.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋笼模板4",
+                    "img": "/modelImg/img/钢筋笼模板4.png",
+                    "thumb": "/modelImg/thumb/钢筋笼模板4.png",
+                    "modelUrl": "/models/glb/钢筋笼模板4.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋笼模板5",
+                    "img": "/modelImg/img/钢筋笼模板5.png",
+                    "thumb": "/modelImg/thumb/钢筋笼模板5.png",
+                    "modelUrl": "/models/glb/钢筋笼模板5.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋笼胎架",
+                    "img": "/modelImg/img/钢筋笼胎架.png",
+                    "thumb": "/modelImg/thumb/钢筋笼胎架.png",
+                    "modelUrl": "/models/glb/钢筋笼胎架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋切断机",
+                    "img": "/modelImg/img/钢筋切断机.png",
+                    "thumb": "/modelImg/thumb/钢筋切断机.png",
+                    "modelUrl": "/models/glb/钢筋切断机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋台架1",
+                    "img": "/modelImg/img/钢筋台架1.png",
+                    "thumb": "/modelImg/thumb/钢筋台架1.png",
+                    "modelUrl": "/models/glb/钢筋台架1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋台架2",
+                    "img": "/modelImg/img/钢筋台架2.png",
+                    "thumb": "/modelImg/thumb/钢筋台架2.png",
+                    "modelUrl": "/models/glb/钢筋台架2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋台架3",
+                    "img": "/modelImg/img/钢筋台架3.png",
+                    "thumb": "/modelImg/thumb/钢筋台架3.png",
+                    "modelUrl": "/models/glb/钢筋台架3.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋调直机",
+                    "img": "/modelImg/img/钢筋调直机.png",
+                    "thumb": "/modelImg/thumb/钢筋调直机.png",
+                    "modelUrl": "/models/glb/钢筋调直机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋弯箍机",
+                    "img": "/modelImg/img/钢筋弯箍机.png",
+                    "thumb": "/modelImg/thumb/钢筋弯箍机.png",
+                    "modelUrl": "/models/glb/钢筋弯箍机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋弯曲机",
+                    "img": "/modelImg/img/钢筋弯曲机.png",
+                    "thumb": "/modelImg/thumb/钢筋弯曲机.png",
+                    "modelUrl": "/models/glb/钢筋弯曲机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "滚焊机",
+                    "img": "/modelImg/img/滚焊机.png",
+                    "thumb": "/modelImg/thumb/滚焊机.png",
+                    "modelUrl": "/models/glb/滚焊机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "数控弯曲机",
+                    "img": "/modelImg/img/数控弯曲机.png",
+                    "thumb": "/modelImg/thumb/数控弯曲机.png",
+                    "modelUrl": "/models/glb/数控弯曲机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "套丝机",
+                    "img": "/modelImg/img/套丝机.png",
+                    "thumb": "/modelImg/thumb/套丝机.png",
+                    "modelUrl": "/models/glb/套丝机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "圆形钢筋堆场",
+                    "img": "/modelImg/img/圆形钢筋堆场.png",
+                    "thumb": "/modelImg/thumb/圆形钢筋堆场.png",
+                    "modelUrl": "/models/glb/圆形钢筋堆场.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "项目驻地",
+            "models": [
+                {
+                    "name": "电动门",
+                    "img": "/modelImg/img/电动门.png",
+                    "thumb": "/modelImg/thumb/电动门.png",
+                    "modelUrl": "/models/glb/电动门.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "装配式门禁",
+                    "img": "/modelImg/img/装配式门禁.png",
+                    "thumb": "/modelImg/thumb/装配式门禁.png",
+                    "modelUrl": "/models/glb/装配式门禁.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "五牌一图",
+                    "img": "/modelImg/img/五牌一图.png",
+                    "thumb": "/modelImg/thumb/五牌一图.png",
+                    "modelUrl": "/models/glb/五牌一图.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "旗台旗杆旗子",
+                    "img": "/modelImg/img/旗台旗杆旗子.png",
+                    "thumb": "/modelImg/thumb/旗台旗杆旗子.png",
+                    "modelUrl": "/models/glb/旗台旗杆旗子.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "门卫房",
+                    "img": "/modelImg/img/门卫房.png",
+                    "thumb": "/modelImg/thumb/门卫房.png",
+                    "modelUrl": "/models/glb/门卫房.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "晾衣棚",
+                    "img": "/modelImg/img/晾衣棚.png",
+                    "thumb": "/modelImg/thumb/晾衣棚.png",
+                    "modelUrl": "/models/glb/晾衣棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "办公楼前门厅（纯玻璃）",
+                    "img": "/modelImg/img/办公楼前门厅（纯玻璃）.png",
+                    "thumb": "/modelImg/thumb/办公楼前门厅（纯玻璃）.png",
+                    "modelUrl": "/models/glb/办公楼前门厅（纯玻璃）.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "集装箱房2（带幕墙）",
+                    "img": "/modelImg/img/集装箱房2（带幕墙）.png",
+                    "thumb": "/modelImg/thumb/集装箱房2（带幕墙）.png",
+                    "modelUrl": "/models/glb/集装箱房2（带幕墙）.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "上饶模型",
+            "models": [
+                {
+                    "name": "龙门吊",
+                    "img": "/modelImg/img/龙门吊.png",
+                    "thumb": "/modelImg/thumb/龙门吊.png",
+                    "modelUrl": "/models/glb/龙门吊.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋场",
+                    "img": "/modelImg/img/钢筋场.png",
+                    "thumb": "/modelImg/thumb/钢筋场.png",
+                    "modelUrl": "/models/glb/钢筋场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "料仓",
+                    "img": "/modelImg/img/料仓.png",
+                    "thumb": "/modelImg/thumb/料仓.png",
+                    "modelUrl": "/models/glb/料仓.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "地中衡",
+                    "img": "/modelImg/img/地中衡.png",
+                    "thumb": "/modelImg/thumb/地中衡.png",
+                    "modelUrl": "/models/glb/地中衡.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "值班室",
+                    "img": "/modelImg/img/值班室.png",
+                    "thumb": "/modelImg/thumb/值班室.png",
+                    "modelUrl": "/models/glb/值班室.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "厂区大门",
+                    "img": "/modelImg/img/厂区大门.png",
+                    "thumb": "/modelImg/thumb/厂区大门.png",
+                    "modelUrl": "/models/glb/厂区大门.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "沉淀池",
+                    "img": "/modelImg/img/沉淀池.png",
+                    "thumb": "/modelImg/thumb/沉淀池.png",
+                    "modelUrl": "/models/glb/沉淀池.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "运输通道池",
+                    "img": "/modelImg/img/运输通道池.png",
+                    "thumb": "/modelImg/thumb/运输通道池.png",
+                    "modelUrl": "/models/glb/运输通道池.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋台架",
+                    "img": "/modelImg/img/钢筋台架.png",
+                    "thumb": "/modelImg/thumb/钢筋台架.png",
+                    "modelUrl": "/models/glb/钢筋台架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "预制区",
+                    "img": "/modelImg/img/预制区.png",
+                    "thumb": "/modelImg/thumb/预制区.png",
+                    "modelUrl": "/models/glb/预制区.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "存梁区",
+                    "img": "/modelImg/img/存梁区.png",
+                    "thumb": "/modelImg/thumb/存梁区.png",
+                    "modelUrl": "/models/glb/存梁区.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "梁",
+                    "img": "/modelImg/img/梁.png",
+                    "thumb": "/modelImg/thumb/梁.png",
+                    "modelUrl": "/models/glb/梁.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "现场临时建筑",
+            "models": [
+                {
+                    "name": "水泥库房",
+                    "img": "/modelImg/img/水泥库房.png",
+                    "thumb": "/modelImg/thumb/水泥库房.png",
+                    "modelUrl": "/models/glb/水泥库房-2014.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "五牌一图",
+                    "img": "/modelImg/img/7牌一图.png",
+                    "thumb": "/modelImg/thumb/7牌一图.png",
+                    "modelUrl": "/models/glb/7牌一图.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全带使用体验模型",
+                    "img": "/modelImg/img/安全带使用体验模型.png",
+                    "thumb": "/modelImg/thumb/安全带使用体验模型.png",
+                    "modelUrl": "/models/glb/安全带使用体验模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全帽撞击体验模型",
+                    "img": "/modelImg/img/安全帽撞击体验模型.png",
+                    "thumb": "/modelImg/thumb/安全帽撞击体验模型.png",
+                    "modelUrl": "/models/glb/安全帽撞击体验模型.glb",
+                    "type": "draco"
+                },
+                {
+                    "name": "安全宣讲台",
+                    "img": "/modelImg/img/安全宣讲台.png",
+                    "thumb": "/modelImg/thumb/安全宣讲台.png",
+                    "modelUrl": "/models/glb/安全宣讲台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "材料标识牌模型",
+                    "img": "/modelImg/img/材料标识牌模型.png",
+                    "thumb": "/modelImg/thumb/材料标识牌模型.png",
+                    "modelUrl": "/models/glb/材料标识牌模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "茶水间",
+                    "img": "/modelImg/img/茶水间.png",
+                    "thumb": "/modelImg/thumb/茶水间.png",
+                    "modelUrl": "/models/glb/茶水间.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "大门",
+                    "img": "/modelImg/img/大门.png",
+                    "thumb": "/modelImg/thumb/大门.png",
+                    "modelUrl": "/models/glb/大门.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吊篮倾斜体验模型",
+                    "img": "/modelImg/img/吊篮倾斜体验模型.png",
+                    "thumb": "/modelImg/thumb/吊篮倾斜体验模型.png",
+                    "modelUrl": "/models/glb/吊篮倾斜体验模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "分配电箱-2014",
+                    "img": "/modelImg/img/分配电箱-2014.png",
+                    "thumb": "/modelImg/thumb/分配电箱-2014.png",
+                    "modelUrl": "/models/glb/分配电箱-2014.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋加工棚",
+                    "img": "/modelImg/img/钢筋加工棚.png",
+                    "thumb": "/modelImg/thumb/钢筋加工棚.png",
+                    "modelUrl": "/models/glb/钢筋加工棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋加工工具",
+                    "img": "/modelImg/img/钢筋加工工具.png",
+                    "thumb": "/modelImg/thumb/钢筋加工工具.png",
+                    "modelUrl": "/models/glb/钢筋加工工具.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢筋",
+                    "img": "/modelImg/img/钢筋.png",
+                    "thumb": "/modelImg/thumb/钢筋.png",
+                    "modelUrl": "/models/glb/钢筋.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "模架样板展示模型",
+                    "img": "/modelImg/img/模架样板展示模型.png",
+                    "thumb": "/modelImg/thumb/模架样板展示模型.png",
+                    "modelUrl": "/models/glb/模架样板展示模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "木工加工棚",
+                    "img": "/modelImg/img/木工加工棚.png",
+                    "thumb": "/modelImg/thumb/木工加工棚.png",
+                    "modelUrl": "/models/glb/木工加工棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "平衡木体验模型",
+                    "img": "/modelImg/img/平衡木体验模型.png",
+                    "thumb": "/modelImg/thumb/平衡木体验模型.png",
+                    "modelUrl": "/models/glb/平衡木体验模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "施工大门模型",
+                    "img": "/modelImg/img/施工大门模型.png",
+                    "thumb": "/modelImg/thumb/施工大门模型.png",
+                    "modelUrl": "/models/glb/施工大门模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "实验室标养室2",
+                    "img": "/modelImg/img/实验室标养室2.png",
+                    "thumb": "/modelImg/thumb/实验室标养室2.png",
+                    "modelUrl": "/models/glb/实验室标养室2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "实验室标养室",
+                    "img": "/modelImg/img/实验室标养室.png",
+                    "thumb": "/modelImg/thumb/实验室标养室.png",
+                    "modelUrl": "/models/glb/实验室标养室.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "水电加工棚",
+                    "img": "/modelImg/img/水电加工棚.png",
+                    "thumb": "/modelImg/thumb/水电加工棚.png",
+                    "modelUrl": "/models/glb/水电加工棚.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吸烟室、休息室-2014",
+                    "img": "/modelImg/img/吸烟室、休息室-2014.png",
+                    "thumb": "/modelImg/thumb/吸烟室、休息室-2014.png",
+                    "modelUrl": "/models/glb/吸烟室、休息室-2014.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "吸烟室",
+                    "img": "/modelImg/img/吸烟室.png",
+                    "thumb": "/modelImg/thumb/吸烟室.png",
+                    "modelUrl": "/models/glb/吸烟室.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "现场安全通道门卫室",
+                    "img": "/modelImg/img/现场安全通道门卫室.png",
+                    "thumb": "/modelImg/thumb/现场安全通道门卫室.png",
+                    "modelUrl": "/models/glb/现场安全通道门卫室.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "现场大门",
+                    "img": "/modelImg/img/现场大门.png",
+                    "thumb": "/modelImg/thumb/现场大门.png",
+                    "modelUrl": "/models/glb/现场大门.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "现场大门2",
+                    "img": "/modelImg/img/现场大门2.png",
+                    "thumb": "/modelImg/thumb/现场大门2.png",
+                    "modelUrl": "/models/glb/现场大门2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "现场急救体验模型",
+                    "img": "/modelImg/img/现场急救体验模型.png",
+                    "thumb": "/modelImg/thumb/现场急救体验模型.png",
+                    "modelUrl": "/models/glb/现场急救体验模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "消防柜",
+                    "img": "/modelImg/img/消防柜.png",
+                    "thumb": "/modelImg/thumb/消防柜.png",
+                    "modelUrl": "/models/glb/消防柜.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "消防体验区模型",
+                    "img": "/modelImg/img/消防体验区模型.png",
+                    "thumb": "/modelImg/thumb/消防体验区模型.png",
+                    "modelUrl": "/models/glb/消防体验区模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "综合用电体验模型",
+                    "img": "/modelImg/img/综合用电体验模型.png",
+                    "thumb": "/modelImg/thumb/综合用电体验模型.png",
+                    "modelUrl": "/models/glb/综合用电体验模型.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "其他模型",
+            "models": [
+                {
+                    "name": "伸缩门",
+                    "img": "/modelImg/img/伸缩门.png",
+                    "thumb": "/modelImg/thumb/伸缩门.png",
+                    "modelUrl": "/models/glb/伸缩门.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "车位",
+                    "img": "/modelImg/img/车位.png",
+                    "thumb": "/modelImg/thumb/车位.png",
+                    "modelUrl": "/models/glb/车位.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "篮球场",
+                    "img": "/modelImg/img/篮球场.png",
+                    "thumb": "/modelImg/thumb/篮球场.png",
+                    "modelUrl": "/models/glb/篮球场.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "篮球框",
+                    "img": "/modelImg/img/篮球框.png",
+                    "thumb": "/modelImg/thumb/篮球框.png",
+                    "modelUrl": "/models/glb/篮球框.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "升旗台",
+                    "img": "/modelImg/img/升旗台.png",
+                    "thumb": "/modelImg/thumb/升旗台.png",
+                    "modelUrl": "/models/glb/升旗台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "太阳能路灯",
+                    "img": "/modelImg/img/太阳能路灯.png",
+                    "thumb": "/modelImg/thumb/太阳能路灯.png",
+                    "modelUrl": "/models/glb/太阳能路灯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "工人宿舍",
+                    "img": "/modelImg/img/工人宿舍.png",
+                    "thumb": "/modelImg/thumb/工人宿舍.png",
+                    "modelUrl": "/models/glb/工人宿舍.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "工人宿舍2",
+                    "img": "/modelImg/img/工人宿舍2.png",
+                    "thumb": "/modelImg/thumb/工人宿舍2.png",
+                    "modelUrl": "/models/glb/工人宿舍2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "施工电梯",
+                    "img": "/modelImg/img/施工电梯.png",
+                    "thumb": "/modelImg/thumb/施工电梯.png",
+                    "modelUrl": "/models/glb/施工电梯.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "水槽",
+                    "img": "/modelImg/img/水槽.png",
+                    "thumb": "/modelImg/thumb/水槽.png",
+                    "modelUrl": "/models/glb/水槽.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "洗车池",
+                    "img": "/modelImg/img/洗车池.png",
+                    "thumb": "/modelImg/thumb/洗车池.png",
+                    "modelUrl": "/models/glb/洗车池.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "项目部大门及铭牌",
+                    "img": "/modelImg/img/项目部大门及铭牌.png",
+                    "thumb": "/modelImg/thumb/项目部大门及铭牌.png",
+                    "modelUrl": "/models/glb/项目部大门及铭牌.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "项目部门牌石模型",
+                    "img": "/modelImg/img/项目部门牌石模型.png",
+                    "thumb": "/modelImg/thumb/项目部门牌石模型.png",
+                    "modelUrl": "/models/glb/项目部门牌石模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "项目部旗台模型",
+                    "img": "/modelImg/img/项目部旗台模型.png",
+                    "thumb": "/modelImg/thumb/项目部旗台模型.png",
+                    "modelUrl": "/models/glb/项目部旗台模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "项目部员工宿舍模型",
+                    "img": "/modelImg/img/项目部员工宿舍模型.png",
+                    "thumb": "/modelImg/thumb/项目部员工宿舍模型.png",
+                    "modelUrl": "/models/glb/项目部员工宿舍模型.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "宣传栏-2014",
+                    "img": "/modelImg/img/宣传栏-2014.png",
+                    "thumb": "/modelImg/thumb/宣传栏-2014.png",
+                    "modelUrl": "/models/glb/宣传栏-2014.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "桌旗",
+                    "img": "/modelImg/img/桌旗.png",
+                    "thumb": "/modelImg/thumb/桌旗.png",
+                    "modelUrl": "/models/glb/桌旗.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "总配电箱-2014",
+                    "img": "/modelImg/img/总配电箱-2014.png",
+                    "thumb": "/modelImg/thumb/总配电箱-2014.png",
+                    "modelUrl": "/models/glb/总配电箱-2014.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "拌合罐",
+                    "img": "/modelImg/img/拌合罐.png",
+                    "thumb": "/modelImg/thumb/拌合罐.png",
+                    "modelUrl": "/models/glb/拌合罐.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "罐车",
+                    "img": "/modelImg/img/罐车.png",
+                    "thumb": "/modelImg/thumb/罐车.png",
+                    "modelUrl": "/models/glb/罐车.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "拌合机",
+                    "img": "/modelImg/img/拌合机.png",
+                    "thumb": "/modelImg/thumb/拌合机.png",
+                    "modelUrl": "/models/glb/拌合机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "工作台2",
+                    "img": "/modelImg/img/工作台2.png",
+                    "thumb": "/modelImg/thumb/工作台2.png",
+                    "modelUrl": "/models/glb/工作台2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "木工工具",
+                    "img": "/modelImg/img/木工工具.png",
+                    "thumb": "/modelImg/thumb/木工工具.png",
+                    "modelUrl": "/models/glb/木工工具.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "塔式起重机",
+                    "img": "/modelImg/img/塔式起重机.png",
+                    "thumb": "/modelImg/thumb/塔式起重机.png",
+                    "modelUrl": "/models/glb/塔式起重机.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "厕所",
+                    "img": "/modelImg/img/厕所.png",
+                    "thumb": "/modelImg/thumb/厕所.png",
+                    "modelUrl": "/models/glb/厕所.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "钢架",
+                    "img": "/modelImg/img/钢架.png",
+                    "thumb": "/modelImg/thumb/钢架.png",
+                    "modelUrl": "/models/glb/钢架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "安全防护用品",
+                    "img": "/modelImg/img/安全防护用品.png",
+                    "thumb": "/modelImg/thumb/安全防护用品.png",
+                    "modelUrl": "/models/glb/安全防护用品.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "房间",
+                    "img": "/modelImg/img/房间.png",
+                    "thumb": "/modelImg/thumb/房间.png",
+                    "modelUrl": "/models/glb/房间.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "工程概况牌",
+                    "img": "/modelImg/img/工程概况牌.png",
+                    "thumb": "/modelImg/thumb/工程概况牌.png",
+                    "modelUrl": "/models/glb/工程概况牌.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "旗杆",
+                    "img": "/modelImg/img/旗杆.png",
+                    "thumb": "/modelImg/thumb/旗杆.png",
+                    "modelUrl": "/models/glb/旗杆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "材料支架",
+                    "img": "/modelImg/img/材料支架.png",
+                    "thumb": "/modelImg/thumb/材料支架.png",
+                    "modelUrl": "/models/glb/材料支架.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "项目经理部大门",
+                    "img": "/modelImg/img/项目经理部大门.png",
+                    "thumb": "/modelImg/thumb/项目经理部大门.png",
+                    "modelUrl": "/models/glb/项目经理部大门.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "灭火器2",
+                    "img": "/modelImg/img/灭火器2.png",
+                    "thumb": "/modelImg/thumb/灭火器2.png",
+                    "modelUrl": "/models/glb/灭火器2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "灭火器",
+                    "img": "/modelImg/img/灭火器.png",
+                    "thumb": "/modelImg/thumb/灭火器.png",
+                    "modelUrl": "/models/glb/灭火器.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "火盆",
+                    "img": "/modelImg/img/火盆.png",
+                    "thumb": "/modelImg/thumb/火盆.png",
+                    "modelUrl": "/models/glb/火盆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "洞口坠落体验",
+                    "img": "/modelImg/img/洞口坠落体验.png",
+                    "thumb": "/modelImg/thumb/洞口坠落体验.png",
+                    "modelUrl": "/models/glb/洞口坠落体验.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "现场大门3",
+                    "img": "/modelImg/img/现场大门3.png",
+                    "thumb": "/modelImg/thumb/现场大门3.png",
+                    "modelUrl": "/models/glb/现场大门3.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "宣传栏",
+                    "img": "/modelImg/img/宣传栏.png",
+                    "thumb": "/modelImg/thumb/宣传栏.png",
+                    "modelUrl": "/models/glb/宣传栏.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "BIM+VR体验馆",
+                    "img": "/modelImg/img/BIM+VR体验馆.png",
+                    "thumb": "/modelImg/thumb/BIM+VR体验馆.png",
+                    "modelUrl": "/models/glb/BIM+VR体验馆.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "工作台",
+                    "img": "/modelImg/img/工作台.png",
+                    "thumb": "/modelImg/thumb/工作台.png",
+                    "modelUrl": "/models/glb/工作台.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "门和围栏",
+                    "img": "/modelImg/img/门和围栏.png",
+                    "thumb": "/modelImg/thumb/门和围栏.png",
+                    "modelUrl": "/models/glb/门和围栏.glb",
+                    "type": "opt"
+                }
+            ]
+        },
+        {
+            "type": "测试",
+            "models": [
+                {
+                    "name": "大叶紫薇",
+                    "img": "/modelImg/img/大叶紫薇.png",
+                    "thumb": "/modelImg/thumb/大叶紫薇.png",
+                    "modelUrl": "/models/test/大叶紫薇.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "盖梁预制场路面",
+                    "img": "/modelImg/img/盖梁预制场路面.png",
+                    "thumb": "/modelImg/thumb/盖梁预制场路面.png",
+                    "modelUrl": "/models/test/盖梁预制场路面.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "临沂7",
+                    "img": "/modelImg/img/临沂7.png",
+                    "thumb": "/modelImg/thumb/临沂7.png",
+                    "modelUrl": "/models/test/临沂7.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "箱涵浇筑通道1",
+                    "img": "/modelImg/img/箱涵浇筑通道1.png",
+                    "thumb": "/modelImg/thumb/箱涵浇筑通道1.png",
+                    "modelUrl": "/models/test/箱涵浇筑通道1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "箱涵浇筑通道2",
+                    "img": "/modelImg/img/箱涵浇筑通道2.png",
+                    "thumb": "/modelImg/thumb/箱涵浇筑通道2.png",
+                    "modelUrl": "/models/test/箱涵浇筑通道2.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "项目部围墙模型",
+                    "img": "/modelImg/img/项目部围墙模型.png",
+                    "thumb": "/modelImg/thumb/项目部围墙模型.png",
+                    "modelUrl": "/models/test/项目部围墙模型.glb",
+                    "type": "gltf"
+                },
+                {
+                    "name": "园内道路",
+                    "img": "/modelImg/img/园内道路.png",
+                    "thumb": "/modelImg/thumb/园内道路.png",
+                    "modelUrl": "/models/test/园内道路.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "园外道路",
+                    "img": "/modelImg/img/园外道路.png",
+                    "thumb": "/modelImg/thumb/园外道路.png",
+                    "modelUrl": "/models/test/园外道路.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "临沂-7厂房-ALLV3",
+                    "img": "/modelImg/img/中交临沂-7厂房-ALLV3.png",
+                    "thumb": "/modelImg/thumb/中交临沂-7厂房-ALLV3.png",
+                    "modelUrl": "/models/test/中交临沂-7厂房-ALLV3.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "临沂-7厂房-ALLV3-2023-3-1",
+                    "img": "/modelImg/img/中交临沂-7厂房-ALLV3.png",
+                    "thumb": "/modelImg/thumb/中交临沂-7厂房-ALLV3.png",
+                    "modelUrl": "/models/test/中交临沂-7厂房-ALLV3-2023-3-1.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "泵车",
+                    "img": "/modelImg/img/泵车.png",
+                    "thumb": "/modelImg/thumb/泵车.png",
+                    "modelUrl": "/models/test/泵车.glb",
+                    "type": "gltf"
+                },
+                {
+                    "name": "布料机",
+                    "img": "/modelImg/img/布料机.png",
+                    "thumb": "/modelImg/thumb/布料机.png",
+                    "modelUrl": "/models/test/布料机.glb",
+                    "type": "gltf"
+                },
+                {
+                    "name": "树",
+                    "img": "/modelImg/img/树.png",
+                    "thumb": "/modelImg/thumb/树.png",
+                    "modelUrl": "/models/test/树.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "装配式龙门吊410",
+                    "img": "/modelImg/img/装配式龙门吊.png",
+                    "thumb": "/modelImg/thumb/装配式龙门吊.png",
+                    "modelUrl": "/models/test/装配式龙门吊410.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "装配式龙门吊4102",
+                    "img": "/modelImg/img/装配式龙门吊.png",
+                    "thumb": "/modelImg/thumb/装配式龙门吊.png",
+                    "modelUrl": "/models/test/装配式龙门吊4102.glb",
+                    "type": "gltf"
+                },
+                {
+                    "name": "box",
+                    "img": "/modelImg/img/box.png",
+                    "thumb": "/modelImg/thumb/box.png",
+                    "modelUrl": "/models/test/box.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "robot",
+                    "img": "/modelImg/img/robot.png",
+                    "thumb": "/modelImg/thumb/robot.png",
+                    "modelUrl": "/models/test/robot.glb",
+                    "type": "gltf"
+                },
+                {
+                    "name": "公交",
+                    "img": "/modelImg/img/公交.png",
+                    "thumb": "/modelImg/thumb/公交.png",
+                    "modelUrl": "/models/test/公交.glb",
+                    "type": "gltf"
+                },
+                {
+                    "name": "公交opt",
+                    "img": "/modelImg/img/公交opt.png",
+                    "thumb": "/modelImg/thumb/公交opt.png",
+                    "modelUrl": "/models/test/公交opt.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "棋盘",
+                    "img": "/modelImg/img/棋盘.png",
+                    "thumb": "/modelImg/thumb/棋盘.png",
+                    "modelUrl": "/models/test/棋盘.glb",
+                    "type": "gltf"
+                },
+                {
+                    "name": "棋盘opt",
+                    "img": "/modelImg/img/棋盘opt.png",
+                    "thumb": "/modelImg/thumb/棋盘opt.png",
+                    "modelUrl": "/models/test/棋盘opt.glb",
+                    "type": "opt"
+                },
+                {
+                    "name": "dida",
+                    "img": "/modelImg/img/dida.png",
+                    "thumb": "/modelImg/thumb/dida.png",
+                    "modelUrl": "/models/test/dida.glb",
+                    "type": "gltf"
+                },
+                {
+                    "name": "didaopt",
+                    "img": "/modelImg/img/didaopt.png",
+                    "thumb": "/modelImg/thumb/didaopt.png",
+                    "modelUrl": "/models/test/didaopt.glb",
+                    "type": "opt"
+                }
+            ]
+        }
+    ]
+}
